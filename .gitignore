@@ -1,35 +1,59 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
+*.egg
 dist/
 build/
-*.egg
 
-cache/
-*.data
-*.pkl
-
-.ipynb_checkpoints/
-*.mp3
-
-# Environment / secrets
+# Virtualenvs / secrets
 .env
+.env.local
 .venv/
 venv/
 env/
 
-# IDE
-.vscode/
-.idea/
-
-# Training artifacts
-lightning_logs/
-wandb/
-
-# Testing / type-checking
+# Caches
+cache/
+.cache/
+*.data
+*.pkl
+.ipynb_checkpoints/
 .pytest_cache/
 .mypy_cache/
+.ruff_cache/
 
-# OS
+# Editors / OS
+.vscode/
+.idea/
 .DS_Store
+Thumbs.db
+
+# Training / experiment artifacts
+lightning_logs/
+wandb/
+outputs/
+
+# Media (don't commit personal videos / audio)
+*.mp3
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.mkv
+*.wav
+*.m4a
+*.flac
+
+# Run artifacts / transcripts (defense-in-depth; outputs/ is already ignored)
+transcript_*.json
+transcript_*.tsv
+*_whisperx.json
+events.tsv
+preds.npy
+segments.pkl
+summary.json
+
+# Node
+node_modules/
