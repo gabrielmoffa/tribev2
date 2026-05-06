@@ -190,7 +190,7 @@ class ReviewPanel {
       });
     });
 
-    this.runSelect.addEventListener("change", () => this.loadRun(this.runSelect.value));
+    this.runSelect.addEventListener("change", () => this.loadRun(this.runSelect.value).then(persistOpenPanels));
 
     this.scrubber.addEventListener("input", (e) => this.seekTo(e.target.value));
 
@@ -234,6 +234,7 @@ class ReviewPanel {
     const idx = panels.indexOf(this);
     if (idx >= 0) panels.splice(idx, 1);
     this.root.remove();
+    persistOpenPanels();
   }
 
   async loadRun(runId) {
@@ -911,7 +912,26 @@ async function addPanel(runId) {
   const panel = new ReviewPanel();
   panels.push(panel);
   if (runId) await panel.loadRun(runId);
+  persistOpenPanels();
   return panel;
+}
+
+const OPEN_PANELS_KEY = "tribeReview.openPanels.v1";
+function persistOpenPanels() {
+  try {
+    const ids = panels.map((p) => p.runSelect.value).filter(Boolean);
+    localStorage.setItem(OPEN_PANELS_KEY, JSON.stringify(ids));
+  } catch (_) {}
+}
+function loadPersistedPanelIds() {
+  try {
+    const raw = localStorage.getItem(OPEN_PANELS_KEY);
+    if (!raw) return [];
+    const ids = JSON.parse(raw);
+    return Array.isArray(ids) ? ids : [];
+  } catch (_) {
+    return [];
+  }
 }
 
 function tickAll() {
@@ -1038,7 +1058,11 @@ uploadForm.addEventListener("submit", async (event) => {
 (async function init() {
   try {
     await loadRunsList();
-    if (runsCache.runs.length) {
+    const available = new Set(runsCache.runs.map((r) => r.id));
+    const saved = loadPersistedPanelIds().filter((id) => available.has(id));
+    if (saved.length) {
+      for (const id of saved) await addPanel(id);
+    } else if (runsCache.runs.length) {
       await addPanel(runsCache.runs[0].id);
     }
   } catch (error) {
