@@ -105,7 +105,8 @@ class ExtractWordsFromAudio(EventsTransform):
             raise ValueError(f"Language {language} not supported")
 
         device = "cuda" if torch.cuda.is_available() else "cpu"
-        compute_type = "float16"
+        compute_type = "float16" if device == "cuda" else "int8"
+        batch_size = "16" if device == "cuda" else "4"
 
         with tempfile.TemporaryDirectory() as output_dir:
             logger.info("Running whisperx via uvx...")
@@ -122,7 +123,7 @@ class ExtractWordsFromAudio(EventsTransform):
                 "--compute_type",
                 compute_type,
                 "--batch_size",
-                "16",
+                batch_size,
                 "--align_model",
                 "WAV2VEC2_ASR_LARGE_LV60K_960H" if language == "english" else "",
                 "--output_dir",
