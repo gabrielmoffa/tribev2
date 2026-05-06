@@ -1,0 +1,7402 @@
+{
+  "L_G_and_S_frontomargin": [
+    {
+      "term": "retrieval",
+      "z": 3.186
+    },
+    {
+      "term": "memory",
+      "z": 2.627
+    },
+    {
+      "term": "encoding",
+      "z": 2.432
+    },
+    {
+      "term": "executive",
+      "z": 2.078
+    },
+    {
+      "term": "episodic",
+      "z": 2.031
+    },
+    {
+      "term": "expectation",
+      "z": 1.787
+    },
+    {
+      "term": "taste",
+      "z": 1.505
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.443
+    },
+    {
+      "term": "reasoning",
+      "z": 1.427
+    },
+    {
+      "term": "salience network",
+      "z": 1.413
+    },
+    {
+      "term": "loss",
+      "z": 1.4
+    },
+    {
+      "term": "working memory",
+      "z": 1.251
+    }
+  ],
+  "L_G_and_S_occipital_inf": [
+    {
+      "term": "visual",
+      "z": 9.895
+    },
+    {
+      "term": "face",
+      "z": 6.798
+    },
+    {
+      "term": "faces",
+      "z": 5.5
+    },
+    {
+      "term": "reading",
+      "z": 5.454
+    },
+    {
+      "term": "word",
+      "z": 4.268
+    },
+    {
+      "term": "objects",
+      "z": 4.234
+    },
+    {
+      "term": "object",
+      "z": 4.048
+    },
+    {
+      "term": "recognition",
+      "z": 3.107
+    },
+    {
+      "term": "attention",
+      "z": 2.555
+    },
+    {
+      "term": "phonological",
+      "z": 2.475
+    },
+    {
+      "term": "observation",
+      "z": 2.272
+    },
+    {
+      "term": "fear",
+      "z": 1.886
+    }
+  ],
+  "L_G_and_S_paracentral": [
+    {
+      "term": "motor",
+      "z": 7.02
+    },
+    {
+      "term": "movement",
+      "z": 3.998
+    },
+    {
+      "term": "imagery",
+      "z": 2.904
+    },
+    {
+      "term": "pain",
+      "z": 2.874
+    },
+    {
+      "term": "resting state",
+      "z": 2.342
+    },
+    {
+      "term": "observation",
+      "z": 1.847
+    },
+    {
+      "term": "rhythm",
+      "z": 1.816
+    },
+    {
+      "term": "action",
+      "z": 1.496
+    },
+    {
+      "term": "default mode",
+      "z": 1.354
+    },
+    {
+      "term": "touch",
+      "z": 1.318
+    },
+    {
+      "term": "executive",
+      "z": 1.29
+    },
+    {
+      "term": "mental imagery",
+      "z": 1.23
+    }
+  ],
+  "L_G_and_S_subcentral": [
+    {
+      "term": "motor",
+      "z": 7.443
+    },
+    {
+      "term": "pain",
+      "z": 7.187
+    },
+    {
+      "term": "tactile",
+      "z": 6.64
+    },
+    {
+      "term": "auditory",
+      "z": 5.7
+    },
+    {
+      "term": "speech",
+      "z": 4.94
+    },
+    {
+      "term": "touch",
+      "z": 3.716
+    },
+    {
+      "term": "movement",
+      "z": 3.314
+    },
+    {
+      "term": "speech production",
+      "z": 3.253
+    },
+    {
+      "term": "imagery",
+      "z": 2.664
+    },
+    {
+      "term": "speech perception",
+      "z": 2.176
+    },
+    {
+      "term": "word",
+      "z": 2.07
+    },
+    {
+      "term": "observation",
+      "z": 2.005
+    }
+  ],
+  "L_G_and_S_transv_frontopol": [
+    {
+      "term": "episodic",
+      "z": 2.421
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.068
+    },
+    {
+      "term": "self referential",
+      "z": 2.022
+    },
+    {
+      "term": "resting state",
+      "z": 1.828
+    },
+    {
+      "term": "retrieval",
+      "z": 1.766
+    },
+    {
+      "term": "self",
+      "z": 1.629
+    },
+    {
+      "term": "taste",
+      "z": 1.466
+    },
+    {
+      "term": "default mode",
+      "z": 1.309
+    },
+    {
+      "term": "memory",
+      "z": 1.272
+    },
+    {
+      "term": "emotional",
+      "z": 1.253
+    },
+    {
+      "term": "reward",
+      "z": 1.243
+    },
+    {
+      "term": "empathic",
+      "z": 1.22
+    }
+  ],
+  "L_G_and_S_cingul-Ant": [
+    {
+      "term": "self",
+      "z": 4.696
+    },
+    {
+      "term": "reward",
+      "z": 4.072
+    },
+    {
+      "term": "social",
+      "z": 3.808
+    },
+    {
+      "term": "emotion",
+      "z": 3.622
+    },
+    {
+      "term": "value",
+      "z": 3.351
+    },
+    {
+      "term": "emotional",
+      "z": 3.168
+    },
+    {
+      "term": "default mode",
+      "z": 3.086
+    },
+    {
+      "term": "regulation",
+      "z": 2.957
+    },
+    {
+      "term": "episodic",
+      "z": 2.864
+    },
+    {
+      "term": "appraisal",
+      "z": 2.831
+    },
+    {
+      "term": "pain",
+      "z": 2.707
+    },
+    {
+      "term": "salience network",
+      "z": 2.69
+    }
+  ],
+  "L_G_and_S_cingul-Mid-Ant": [
+    {
+      "term": "pain",
+      "z": 6.159
+    },
+    {
+      "term": "motor",
+      "z": 5.076
+    },
+    {
+      "term": "conflict",
+      "z": 3.903
+    },
+    {
+      "term": "control",
+      "z": 3.418
+    },
+    {
+      "term": "empathy",
+      "z": 2.337
+    },
+    {
+      "term": "executive",
+      "z": 2.264
+    },
+    {
+      "term": "speech production",
+      "z": 2.168
+    },
+    {
+      "term": "anticipation",
+      "z": 2.104
+    },
+    {
+      "term": "reasoning",
+      "z": 2.085
+    },
+    {
+      "term": "semantic",
+      "z": 2.054
+    },
+    {
+      "term": "inhibition",
+      "z": 2.011
+    },
+    {
+      "term": "value",
+      "z": 1.826
+    }
+  ],
+  "L_G_and_S_cingul-Mid-Post": [
+    {
+      "term": "motor",
+      "z": 6.909
+    },
+    {
+      "term": "movement",
+      "z": 5.237
+    },
+    {
+      "term": "pain",
+      "z": 3.664
+    },
+    {
+      "term": "recognition",
+      "z": 2.322
+    },
+    {
+      "term": "imagery",
+      "z": 1.814
+    },
+    {
+      "term": "speech production",
+      "z": 1.742
+    },
+    {
+      "term": "value",
+      "z": 1.606
+    },
+    {
+      "term": "episodic",
+      "z": 1.603
+    },
+    {
+      "term": "anticipation",
+      "z": 1.574
+    },
+    {
+      "term": "object",
+      "z": 1.452
+    },
+    {
+      "term": "control",
+      "z": 1.109
+    },
+    {
+      "term": "speech",
+      "z": 0.973
+    }
+  ],
+  "L_G_cingul-Post-dorsal": [
+    {
+      "term": "default mode",
+      "z": 5.776
+    },
+    {
+      "term": "memory",
+      "z": 4.419
+    },
+    {
+      "term": "self",
+      "z": 3.961
+    },
+    {
+      "term": "episodic",
+      "z": 3.925
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.694
+    },
+    {
+      "term": "retrieval",
+      "z": 3.646
+    },
+    {
+      "term": "resting state",
+      "z": 3.051
+    },
+    {
+      "term": "social",
+      "z": 2.524
+    },
+    {
+      "term": "salience network",
+      "z": 2.358
+    },
+    {
+      "term": "rest",
+      "z": 2.288
+    },
+    {
+      "term": "self referential",
+      "z": 2.154
+    },
+    {
+      "term": "empathy",
+      "z": 2.023
+    }
+  ],
+  "L_G_cingul-Post-ventral": [
+    {
+      "term": "episodic",
+      "z": 3.665
+    },
+    {
+      "term": "memory",
+      "z": 3.523
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.408
+    },
+    {
+      "term": "retrieval",
+      "z": 3.235
+    },
+    {
+      "term": "default mode",
+      "z": 3.079
+    },
+    {
+      "term": "self",
+      "z": 2.707
+    },
+    {
+      "term": "self referential",
+      "z": 2.693
+    },
+    {
+      "term": "resting state",
+      "z": 2.157
+    },
+    {
+      "term": "semantic",
+      "z": 2.114
+    },
+    {
+      "term": "navigation",
+      "z": 1.977
+    },
+    {
+      "term": "value",
+      "z": 1.923
+    },
+    {
+      "term": "recall",
+      "z": 1.898
+    }
+  ],
+  "L_G_cuneus": [
+    {
+      "term": "visual",
+      "z": 4.655
+    },
+    {
+      "term": "retrieval",
+      "z": 2.071
+    },
+    {
+      "term": "episodic",
+      "z": 2.023
+    },
+    {
+      "term": "recognition",
+      "z": 1.993
+    },
+    {
+      "term": "memory",
+      "z": 1.84
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.746
+    },
+    {
+      "term": "category",
+      "z": 1.641
+    },
+    {
+      "term": "rest",
+      "z": 1.576
+    },
+    {
+      "term": "default mode",
+      "z": 1.507
+    },
+    {
+      "term": "reasoning",
+      "z": 1.45
+    },
+    {
+      "term": "resting state",
+      "z": 1.442
+    },
+    {
+      "term": "imagery",
+      "z": 1.252
+    }
+  ],
+  "L_G_front_inf-Opercular": [
+    {
+      "term": "language",
+      "z": 9.482
+    },
+    {
+      "term": "semantic",
+      "z": 7.741
+    },
+    {
+      "term": "word",
+      "z": 7.331
+    },
+    {
+      "term": "comprehension",
+      "z": 6.459
+    },
+    {
+      "term": "phonological",
+      "z": 6.451
+    },
+    {
+      "term": "syntactic",
+      "z": 5.874
+    },
+    {
+      "term": "reading",
+      "z": 5.375
+    },
+    {
+      "term": "speech",
+      "z": 5.32
+    },
+    {
+      "term": "imitation",
+      "z": 3.68
+    },
+    {
+      "term": "auditory",
+      "z": 3.365
+    },
+    {
+      "term": "motor",
+      "z": 3.16
+    },
+    {
+      "term": "speech production",
+      "z": 2.943
+    }
+  ],
+  "L_G_front_inf-Orbital": [
+    {
+      "term": "semantic",
+      "z": 5.248
+    },
+    {
+      "term": "language",
+      "z": 5.078
+    },
+    {
+      "term": "word",
+      "z": 4.1
+    },
+    {
+      "term": "comprehension",
+      "z": 3.844
+    },
+    {
+      "term": "reading",
+      "z": 3.083
+    },
+    {
+      "term": "phonological",
+      "z": 3.044
+    },
+    {
+      "term": "emotion",
+      "z": 2.768
+    },
+    {
+      "term": "retrieval",
+      "z": 2.725
+    },
+    {
+      "term": "encoding",
+      "z": 2.55
+    },
+    {
+      "term": "self referential",
+      "z": 2.437
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.305
+    },
+    {
+      "term": "self",
+      "z": 2.251
+    }
+  ],
+  "L_G_front_inf-Triangul": [
+    {
+      "term": "semantic",
+      "z": 8.909
+    },
+    {
+      "term": "language",
+      "z": 8.895
+    },
+    {
+      "term": "comprehension",
+      "z": 7.008
+    },
+    {
+      "term": "word",
+      "z": 6.621
+    },
+    {
+      "term": "reading",
+      "z": 5.484
+    },
+    {
+      "term": "encoding",
+      "z": 4.928
+    },
+    {
+      "term": "phonological",
+      "z": 4.739
+    },
+    {
+      "term": "syntactic",
+      "z": 4.691
+    },
+    {
+      "term": "retrieval",
+      "z": 3.606
+    },
+    {
+      "term": "episodic",
+      "z": 3.516
+    },
+    {
+      "term": "memory",
+      "z": 3.292
+    },
+    {
+      "term": "speech",
+      "z": 3.166
+    }
+  ],
+  "L_G_front_middle": [
+    {
+      "term": "memory",
+      "z": 8.253
+    },
+    {
+      "term": "working memory",
+      "z": 6.85
+    },
+    {
+      "term": "retrieval",
+      "z": 6.806
+    },
+    {
+      "term": "executive",
+      "z": 6.224
+    },
+    {
+      "term": "episodic",
+      "z": 5.329
+    },
+    {
+      "term": "control",
+      "z": 4.845
+    },
+    {
+      "term": "encoding",
+      "z": 3.776
+    },
+    {
+      "term": "reasoning",
+      "z": 3.529
+    },
+    {
+      "term": "decision",
+      "z": 3.302
+    },
+    {
+      "term": "recognition",
+      "z": 3.185
+    },
+    {
+      "term": "semantic",
+      "z": 2.805
+    },
+    {
+      "term": "choice",
+      "z": 2.779
+    }
+  ],
+  "L_G_front_sup": [
+    {
+      "term": "motor",
+      "z": 9.714
+    },
+    {
+      "term": "memory",
+      "z": 6.575
+    },
+    {
+      "term": "retrieval",
+      "z": 5.943
+    },
+    {
+      "term": "imagery",
+      "z": 5.26
+    },
+    {
+      "term": "self",
+      "z": 5.009
+    },
+    {
+      "term": "action",
+      "z": 4.614
+    },
+    {
+      "term": "encoding",
+      "z": 4.515
+    },
+    {
+      "term": "word",
+      "z": 4.438
+    },
+    {
+      "term": "episodic",
+      "z": 4.22
+    },
+    {
+      "term": "self referential",
+      "z": 4.123
+    },
+    {
+      "term": "semantic",
+      "z": 3.998
+    },
+    {
+      "term": "language",
+      "z": 3.835
+    }
+  ],
+  "L_G_Ins_lg_and_S_cent_ins": [
+    {
+      "term": "pain",
+      "z": 6.384
+    },
+    {
+      "term": "touch",
+      "z": 2.601
+    },
+    {
+      "term": "disgust",
+      "z": 2.559
+    },
+    {
+      "term": "salience",
+      "z": 2.539
+    },
+    {
+      "term": "tactile",
+      "z": 2.522
+    },
+    {
+      "term": "arousal",
+      "z": 2.251
+    },
+    {
+      "term": "fear",
+      "z": 1.951
+    },
+    {
+      "term": "auditory",
+      "z": 1.916
+    },
+    {
+      "term": "music",
+      "z": 1.825
+    },
+    {
+      "term": "salience network",
+      "z": 1.802
+    },
+    {
+      "term": "empathy",
+      "z": 1.787
+    },
+    {
+      "term": "emotion",
+      "z": 1.769
+    }
+  ],
+  "L_G_insular_short": [
+    {
+      "term": "pain",
+      "z": 7.125
+    },
+    {
+      "term": "inhibition",
+      "z": 3.749
+    },
+    {
+      "term": "decision",
+      "z": 3.626
+    },
+    {
+      "term": "fear",
+      "z": 3.255
+    },
+    {
+      "term": "empathy",
+      "z": 3.089
+    },
+    {
+      "term": "threat",
+      "z": 3.056
+    },
+    {
+      "term": "taste",
+      "z": 3.001
+    },
+    {
+      "term": "control",
+      "z": 2.9
+    },
+    {
+      "term": "reward",
+      "z": 2.807
+    },
+    {
+      "term": "salient",
+      "z": 2.75
+    },
+    {
+      "term": "anticipation",
+      "z": 2.698
+    },
+    {
+      "term": "working memory",
+      "z": 2.573
+    }
+  ],
+  "L_G_occipital_middle": [
+    {
+      "term": "visual",
+      "z": 9.842
+    },
+    {
+      "term": "objects",
+      "z": 5.296
+    },
+    {
+      "term": "object",
+      "z": 4.686
+    },
+    {
+      "term": "observation",
+      "z": 3.883
+    },
+    {
+      "term": "scenes",
+      "z": 3.708
+    },
+    {
+      "term": "scene",
+      "z": 3.699
+    },
+    {
+      "term": "body",
+      "z": 3.666
+    },
+    {
+      "term": "face",
+      "z": 3.527
+    },
+    {
+      "term": "attention",
+      "z": 3.473
+    },
+    {
+      "term": "recognition",
+      "z": 3.464
+    },
+    {
+      "term": "spatial",
+      "z": 3.46
+    },
+    {
+      "term": "action",
+      "z": 2.963
+    }
+  ],
+  "L_G_occipital_sup": [
+    {
+      "term": "visual",
+      "z": 6.395
+    },
+    {
+      "term": "action",
+      "z": 2.64
+    },
+    {
+      "term": "spatial",
+      "z": 2.47
+    },
+    {
+      "term": "observation",
+      "z": 2.118
+    },
+    {
+      "term": "attention",
+      "z": 2.05
+    },
+    {
+      "term": "episodic",
+      "z": 1.849
+    },
+    {
+      "term": "reaching",
+      "z": 1.731
+    },
+    {
+      "term": "object",
+      "z": 1.717
+    },
+    {
+      "term": "mentalizing",
+      "z": 1.473
+    },
+    {
+      "term": "encoding",
+      "z": 1.448
+    },
+    {
+      "term": "rest",
+      "z": 1.416
+    },
+    {
+      "term": "touch",
+      "z": 1.216
+    }
+  ],
+  "L_G_oc-temp_lat-fusifor": [
+    {
+      "term": "visual",
+      "z": 10.807
+    },
+    {
+      "term": "face",
+      "z": 9.217
+    },
+    {
+      "term": "faces",
+      "z": 8.711
+    },
+    {
+      "term": "objects",
+      "z": 7.318
+    },
+    {
+      "term": "word",
+      "z": 7.105
+    },
+    {
+      "term": "object",
+      "z": 7.018
+    },
+    {
+      "term": "semantic",
+      "z": 6.689
+    },
+    {
+      "term": "reading",
+      "z": 6.577
+    },
+    {
+      "term": "recognition",
+      "z": 6.123
+    },
+    {
+      "term": "encoding",
+      "z": 5.955
+    },
+    {
+      "term": "category",
+      "z": 4.654
+    },
+    {
+      "term": "phonological",
+      "z": 3.892
+    }
+  ],
+  "L_G_oc-temp_med-Lingual": [
+    {
+      "term": "visual",
+      "z": 9.719
+    },
+    {
+      "term": "encoding",
+      "z": 3.184
+    },
+    {
+      "term": "navigation",
+      "z": 2.929
+    },
+    {
+      "term": "category",
+      "z": 2.522
+    },
+    {
+      "term": "episodic",
+      "z": 2.197
+    },
+    {
+      "term": "mental imagery",
+      "z": 2.18
+    },
+    {
+      "term": "spatial",
+      "z": 2.052
+    },
+    {
+      "term": "scene",
+      "z": 1.853
+    },
+    {
+      "term": "reasoning",
+      "z": 1.773
+    },
+    {
+      "term": "memory",
+      "z": 1.715
+    },
+    {
+      "term": "concept",
+      "z": 1.695
+    },
+    {
+      "term": "salience network",
+      "z": 1.628
+    }
+  ],
+  "L_G_oc-temp_med-Parahip": [
+    {
+      "term": "memory",
+      "z": 8.267
+    },
+    {
+      "term": "episodic",
+      "z": 6.965
+    },
+    {
+      "term": "retrieval",
+      "z": 5.568
+    },
+    {
+      "term": "encoding",
+      "z": 5.502
+    },
+    {
+      "term": "autobiographical",
+      "z": 4.535
+    },
+    {
+      "term": "emotional",
+      "z": 4.493
+    },
+    {
+      "term": "faces",
+      "z": 4.395
+    },
+    {
+      "term": "recognition",
+      "z": 4.132
+    },
+    {
+      "term": "fear",
+      "z": 4.038
+    },
+    {
+      "term": "scenes",
+      "z": 3.522
+    },
+    {
+      "term": "fearful",
+      "z": 3.237
+    },
+    {
+      "term": "recall",
+      "z": 3.096
+    }
+  ],
+  "L_G_orbital": [
+    {
+      "term": "retrieval",
+      "z": 4.726
+    },
+    {
+      "term": "emotional",
+      "z": 4.172
+    },
+    {
+      "term": "encoding",
+      "z": 3.91
+    },
+    {
+      "term": "social",
+      "z": 3.845
+    },
+    {
+      "term": "semantic",
+      "z": 3.746
+    },
+    {
+      "term": "episodic",
+      "z": 3.337
+    },
+    {
+      "term": "happy",
+      "z": 2.975
+    },
+    {
+      "term": "regulation",
+      "z": 2.961
+    },
+    {
+      "term": "recognition",
+      "z": 2.794
+    },
+    {
+      "term": "reward",
+      "z": 2.647
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.603
+    },
+    {
+      "term": "emotion",
+      "z": 2.601
+    }
+  ],
+  "L_G_pariet_inf-Angular": [
+    {
+      "term": "retrieval",
+      "z": 8.669
+    },
+    {
+      "term": "episodic",
+      "z": 6.733
+    },
+    {
+      "term": "default mode",
+      "z": 6.716
+    },
+    {
+      "term": "memory",
+      "z": 6.242
+    },
+    {
+      "term": "semantic",
+      "z": 5.2
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.949
+    },
+    {
+      "term": "mentalizing",
+      "z": 3.873
+    },
+    {
+      "term": "comprehension",
+      "z": 3.279
+    },
+    {
+      "term": "encoding",
+      "z": 3.068
+    },
+    {
+      "term": "reasoning",
+      "z": 3.053
+    },
+    {
+      "term": "word",
+      "z": 3.052
+    },
+    {
+      "term": "self",
+      "z": 2.789
+    }
+  ],
+  "L_G_pariet_inf-Supramar": [
+    {
+      "term": "motor",
+      "z": 6.985
+    },
+    {
+      "term": "action",
+      "z": 5.723
+    },
+    {
+      "term": "pain",
+      "z": 5.713
+    },
+    {
+      "term": "auditory",
+      "z": 4.402
+    },
+    {
+      "term": "movement",
+      "z": 4.116
+    },
+    {
+      "term": "tactile",
+      "z": 3.982
+    },
+    {
+      "term": "imagery",
+      "z": 3.864
+    },
+    {
+      "term": "observation",
+      "z": 3.701
+    },
+    {
+      "term": "object",
+      "z": 2.987
+    },
+    {
+      "term": "touch",
+      "z": 2.508
+    },
+    {
+      "term": "salience network",
+      "z": 2.412
+    },
+    {
+      "term": "body",
+      "z": 2.374
+    }
+  ],
+  "L_G_parietal_sup": [
+    {
+      "term": "spatial",
+      "z": 8.049
+    },
+    {
+      "term": "motor",
+      "z": 7.328
+    },
+    {
+      "term": "visual",
+      "z": 6.569
+    },
+    {
+      "term": "action",
+      "z": 5.701
+    },
+    {
+      "term": "observation",
+      "z": 5.501
+    },
+    {
+      "term": "movement",
+      "z": 5.004
+    },
+    {
+      "term": "imagery",
+      "z": 4.909
+    },
+    {
+      "term": "object",
+      "z": 4.802
+    },
+    {
+      "term": "attention",
+      "z": 4.446
+    },
+    {
+      "term": "objects",
+      "z": 3.818
+    },
+    {
+      "term": "working memory",
+      "z": 3.687
+    },
+    {
+      "term": "retrieval",
+      "z": 3.513
+    }
+  ],
+  "L_G_postcentral": [
+    {
+      "term": "motor",
+      "z": 13.039
+    },
+    {
+      "term": "movement",
+      "z": 6.585
+    },
+    {
+      "term": "tactile",
+      "z": 5.396
+    },
+    {
+      "term": "action",
+      "z": 5.089
+    },
+    {
+      "term": "observation",
+      "z": 3.928
+    },
+    {
+      "term": "touch",
+      "z": 2.945
+    },
+    {
+      "term": "imagery",
+      "z": 2.728
+    },
+    {
+      "term": "speech production",
+      "z": 2.398
+    },
+    {
+      "term": "object",
+      "z": 2.373
+    },
+    {
+      "term": "imitation",
+      "z": 2.156
+    },
+    {
+      "term": "pain",
+      "z": 2.148
+    },
+    {
+      "term": "objects",
+      "z": 1.876
+    }
+  ],
+  "L_G_precentral": [
+    {
+      "term": "motor",
+      "z": 18.19
+    },
+    {
+      "term": "movement",
+      "z": 9.75
+    },
+    {
+      "term": "action",
+      "z": 7.743
+    },
+    {
+      "term": "observation",
+      "z": 5.4
+    },
+    {
+      "term": "language",
+      "z": 4.656
+    },
+    {
+      "term": "imagery",
+      "z": 4.519
+    },
+    {
+      "term": "reading",
+      "z": 4.243
+    },
+    {
+      "term": "imitation",
+      "z": 3.987
+    },
+    {
+      "term": "phonological",
+      "z": 3.727
+    },
+    {
+      "term": "speech",
+      "z": 3.572
+    },
+    {
+      "term": "tactile",
+      "z": 3.464
+    },
+    {
+      "term": "abstract",
+      "z": 2.911
+    }
+  ],
+  "L_G_precuneus": [
+    {
+      "term": "retrieval",
+      "z": 6.451
+    },
+    {
+      "term": "episodic",
+      "z": 6.259
+    },
+    {
+      "term": "default mode",
+      "z": 5.765
+    },
+    {
+      "term": "self",
+      "z": 5.311
+    },
+    {
+      "term": "memory",
+      "z": 5.161
+    },
+    {
+      "term": "autobiographical",
+      "z": 4.536
+    },
+    {
+      "term": "mentalizing",
+      "z": 3.186
+    },
+    {
+      "term": "semantic",
+      "z": 2.945
+    },
+    {
+      "term": "self referential",
+      "z": 2.89
+    },
+    {
+      "term": "salience",
+      "z": 2.582
+    },
+    {
+      "term": "salience network",
+      "z": 2.514
+    },
+    {
+      "term": "navigation",
+      "z": 2.46
+    }
+  ],
+  "L_G_rectus": [
+    {
+      "term": "social",
+      "z": 4.424
+    },
+    {
+      "term": "emotional",
+      "z": 4.076
+    },
+    {
+      "term": "value",
+      "z": 3.869
+    },
+    {
+      "term": "decision",
+      "z": 3.756
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.618
+    },
+    {
+      "term": "episodic",
+      "z": 3.159
+    },
+    {
+      "term": "self",
+      "z": 2.984
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.674
+    },
+    {
+      "term": "choice",
+      "z": 2.634
+    },
+    {
+      "term": "reward",
+      "z": 2.437
+    },
+    {
+      "term": "empathy",
+      "z": 2.357
+    },
+    {
+      "term": "regulation",
+      "z": 2.313
+    }
+  ],
+  "L_G_subcallosal": [
+    {
+      "term": "reward",
+      "z": 4.047
+    },
+    {
+      "term": "anticipation",
+      "z": 2.275
+    },
+    {
+      "term": "prediction",
+      "z": 2.197
+    },
+    {
+      "term": "punishment",
+      "z": 2.139
+    },
+    {
+      "term": "motivation",
+      "z": 2.105
+    },
+    {
+      "term": "incentive",
+      "z": 2.099
+    },
+    {
+      "term": "value",
+      "z": 1.937
+    },
+    {
+      "term": "decision",
+      "z": 1.931
+    },
+    {
+      "term": "choice",
+      "z": 1.931
+    },
+    {
+      "term": "prediction error",
+      "z": 1.912
+    },
+    {
+      "term": "arousal",
+      "z": 1.803
+    },
+    {
+      "term": "fear",
+      "z": 1.737
+    }
+  ],
+  "L_G_temp_sup-G_T_transv": [
+    {
+      "term": "auditory",
+      "z": 14.192
+    },
+    {
+      "term": "speech",
+      "z": 8.286
+    },
+    {
+      "term": "music",
+      "z": 4.084
+    },
+    {
+      "term": "speech perception",
+      "z": 3.844
+    },
+    {
+      "term": "phonological",
+      "z": 3.497
+    },
+    {
+      "term": "language",
+      "z": 3.415
+    },
+    {
+      "term": "motor",
+      "z": 2.902
+    },
+    {
+      "term": "speech production",
+      "z": 2.849
+    },
+    {
+      "term": "comprehension",
+      "z": 2.31
+    },
+    {
+      "term": "voice",
+      "z": 2.197
+    },
+    {
+      "term": "recall",
+      "z": 2.167
+    },
+    {
+      "term": "rhythm",
+      "z": 1.591
+    }
+  ],
+  "L_G_temp_sup-Lateral": [
+    {
+      "term": "auditory",
+      "z": 12.519
+    },
+    {
+      "term": "speech",
+      "z": 11.036
+    },
+    {
+      "term": "language",
+      "z": 9.574
+    },
+    {
+      "term": "semantic",
+      "z": 7.366
+    },
+    {
+      "term": "comprehension",
+      "z": 7.074
+    },
+    {
+      "term": "word",
+      "z": 7.002
+    },
+    {
+      "term": "phonological",
+      "z": 6.218
+    },
+    {
+      "term": "voice",
+      "z": 6.063
+    },
+    {
+      "term": "reading",
+      "z": 5.493
+    },
+    {
+      "term": "syntactic",
+      "z": 4.896
+    },
+    {
+      "term": "speech perception",
+      "z": 4.66
+    },
+    {
+      "term": "speech production",
+      "z": 4.436
+    }
+  ],
+  "L_G_temp_sup-Plan_polar": [
+    {
+      "term": "semantic",
+      "z": 3.452
+    },
+    {
+      "term": "emotion",
+      "z": 2.748
+    },
+    {
+      "term": "music",
+      "z": 2.403
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.375
+    },
+    {
+      "term": "pain",
+      "z": 2.316
+    },
+    {
+      "term": "retrieval",
+      "z": 2.021
+    },
+    {
+      "term": "emotional",
+      "z": 1.959
+    },
+    {
+      "term": "salience",
+      "z": 1.83
+    },
+    {
+      "term": "salience network",
+      "z": 1.715
+    },
+    {
+      "term": "fear",
+      "z": 1.668
+    },
+    {
+      "term": "happy",
+      "z": 1.614
+    },
+    {
+      "term": "threat",
+      "z": 1.567
+    }
+  ],
+  "L_G_temp_sup-Plan_tempo": [
+    {
+      "term": "auditory",
+      "z": 11.189
+    },
+    {
+      "term": "speech",
+      "z": 6.797
+    },
+    {
+      "term": "language",
+      "z": 4.412
+    },
+    {
+      "term": "phonological",
+      "z": 4.246
+    },
+    {
+      "term": "music",
+      "z": 3.569
+    },
+    {
+      "term": "voice",
+      "z": 3.494
+    },
+    {
+      "term": "motor",
+      "z": 3.384
+    },
+    {
+      "term": "semantic",
+      "z": 3.34
+    },
+    {
+      "term": "speech production",
+      "z": 3.327
+    },
+    {
+      "term": "speech perception",
+      "z": 3.067
+    },
+    {
+      "term": "reading",
+      "z": 2.846
+    },
+    {
+      "term": "action",
+      "z": 2.436
+    }
+  ],
+  "L_G_temporal_inf": [
+    {
+      "term": "word",
+      "z": 5.911
+    },
+    {
+      "term": "semantic",
+      "z": 5.514
+    },
+    {
+      "term": "visual",
+      "z": 4.885
+    },
+    {
+      "term": "phonological",
+      "z": 4.168
+    },
+    {
+      "term": "encoding",
+      "z": 4.05
+    },
+    {
+      "term": "reading",
+      "z": 4.025
+    },
+    {
+      "term": "memory",
+      "z": 3.91
+    },
+    {
+      "term": "objects",
+      "z": 3.742
+    },
+    {
+      "term": "retrieval",
+      "z": 3.625
+    },
+    {
+      "term": "object",
+      "z": 3.534
+    },
+    {
+      "term": "language",
+      "z": 3.369
+    },
+    {
+      "term": "recognition",
+      "z": 3.117
+    }
+  ],
+  "L_G_temporal_middle": [
+    {
+      "term": "semantic",
+      "z": 7.382
+    },
+    {
+      "term": "retrieval",
+      "z": 5.438
+    },
+    {
+      "term": "comprehension",
+      "z": 5.427
+    },
+    {
+      "term": "language",
+      "z": 5.137
+    },
+    {
+      "term": "word",
+      "z": 4.967
+    },
+    {
+      "term": "default mode",
+      "z": 4.585
+    },
+    {
+      "term": "speech",
+      "z": 4.462
+    },
+    {
+      "term": "social",
+      "z": 4.386
+    },
+    {
+      "term": "reading",
+      "z": 3.974
+    },
+    {
+      "term": "episodic",
+      "z": 3.705
+    },
+    {
+      "term": "recognition",
+      "z": 3.698
+    },
+    {
+      "term": "memory",
+      "z": 3.556
+    }
+  ],
+  "L_Lat_Fis-ant-Horizont": [
+    {
+      "term": "reading",
+      "z": 2.843
+    },
+    {
+      "term": "phonological",
+      "z": 2.797
+    },
+    {
+      "term": "word",
+      "z": 2.489
+    },
+    {
+      "term": "language",
+      "z": 2.421
+    },
+    {
+      "term": "semantic",
+      "z": 2.011
+    },
+    {
+      "term": "syntactic",
+      "z": 1.783
+    },
+    {
+      "term": "decision",
+      "z": 1.669
+    },
+    {
+      "term": "comprehension",
+      "z": 1.637
+    },
+    {
+      "term": "speech",
+      "z": 1.493
+    },
+    {
+      "term": "competition",
+      "z": 1.413
+    },
+    {
+      "term": "value",
+      "z": 1.391
+    },
+    {
+      "term": "auditory",
+      "z": 1.386
+    }
+  ],
+  "L_Lat_Fis-ant-Vertical": [
+    {
+      "term": "language",
+      "z": 4.139
+    },
+    {
+      "term": "semantic",
+      "z": 3.343
+    },
+    {
+      "term": "syntactic",
+      "z": 3.099
+    },
+    {
+      "term": "word",
+      "z": 2.99
+    },
+    {
+      "term": "comprehension",
+      "z": 2.79
+    },
+    {
+      "term": "retrieval",
+      "z": 2.393
+    },
+    {
+      "term": "encoding",
+      "z": 2.19
+    },
+    {
+      "term": "recall",
+      "z": 2.189
+    },
+    {
+      "term": "emotional",
+      "z": 2.171
+    },
+    {
+      "term": "phonological",
+      "z": 2.002
+    },
+    {
+      "term": "speech",
+      "z": 1.968
+    },
+    {
+      "term": "memory",
+      "z": 1.888
+    }
+  ],
+  "L_Lat_Fis-post": [
+    {
+      "term": "auditory",
+      "z": 8.35
+    },
+    {
+      "term": "speech",
+      "z": 5.657
+    },
+    {
+      "term": "motor",
+      "z": 3.535
+    },
+    {
+      "term": "speech production",
+      "z": 3.518
+    },
+    {
+      "term": "music",
+      "z": 3.19
+    },
+    {
+      "term": "movement",
+      "z": 3.151
+    },
+    {
+      "term": "speech perception",
+      "z": 3.071
+    },
+    {
+      "term": "phonological",
+      "z": 2.794
+    },
+    {
+      "term": "language",
+      "z": 2.496
+    },
+    {
+      "term": "tactile",
+      "z": 2.075
+    },
+    {
+      "term": "reading",
+      "z": 1.622
+    },
+    {
+      "term": "recall",
+      "z": 1.4
+    }
+  ],
+  "L_Pole_occipital": [
+    {
+      "term": "visual",
+      "z": 6.215
+    },
+    {
+      "term": "reading",
+      "z": 3.332
+    },
+    {
+      "term": "word",
+      "z": 3.119
+    },
+    {
+      "term": "objects",
+      "z": 2.571
+    },
+    {
+      "term": "decision",
+      "z": 2.537
+    },
+    {
+      "term": "category",
+      "z": 2.384
+    },
+    {
+      "term": "face",
+      "z": 2.371
+    },
+    {
+      "term": "semantic",
+      "z": 2.347
+    },
+    {
+      "term": "object",
+      "z": 2.273
+    },
+    {
+      "term": "faces",
+      "z": 2.199
+    },
+    {
+      "term": "disgust",
+      "z": 2.181
+    },
+    {
+      "term": "retrieval",
+      "z": 2.148
+    }
+  ],
+  "L_Pole_temporal": [
+    {
+      "term": "semantic",
+      "z": 3.728
+    },
+    {
+      "term": "social",
+      "z": 3.181
+    },
+    {
+      "term": "retrieval",
+      "z": 2.909
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.682
+    },
+    {
+      "term": "emotional",
+      "z": 2.63
+    },
+    {
+      "term": "memory",
+      "z": 2.59
+    },
+    {
+      "term": "empathy",
+      "z": 2.369
+    },
+    {
+      "term": "face",
+      "z": 2.278
+    },
+    {
+      "term": "episodic",
+      "z": 2.128
+    },
+    {
+      "term": "fearful",
+      "z": 2.075
+    },
+    {
+      "term": "default mode",
+      "z": 1.906
+    },
+    {
+      "term": "mentalizing",
+      "z": 1.881
+    }
+  ],
+  "L_S_calcarine": [
+    {
+      "term": "visual",
+      "z": 5.51
+    },
+    {
+      "term": "scene",
+      "z": 3.278
+    },
+    {
+      "term": "navigation",
+      "z": 2.844
+    },
+    {
+      "term": "scenes",
+      "z": 2.668
+    },
+    {
+      "term": "mental imagery",
+      "z": 2.158
+    },
+    {
+      "term": "default mode",
+      "z": 2.151
+    },
+    {
+      "term": "spatial",
+      "z": 2.113
+    },
+    {
+      "term": "place",
+      "z": 2.108
+    },
+    {
+      "term": "recall",
+      "z": 2.03
+    },
+    {
+      "term": "word",
+      "z": 1.889
+    },
+    {
+      "term": "abstract",
+      "z": 1.829
+    },
+    {
+      "term": "category",
+      "z": 1.798
+    }
+  ],
+  "L_S_central": [
+    {
+      "term": "motor",
+      "z": 13.681
+    },
+    {
+      "term": "movement",
+      "z": 8.013
+    },
+    {
+      "term": "speech production",
+      "z": 3.859
+    },
+    {
+      "term": "pain",
+      "z": 3.073
+    },
+    {
+      "term": "action",
+      "z": 2.557
+    },
+    {
+      "term": "tactile",
+      "z": 2.408
+    },
+    {
+      "term": "rest",
+      "z": 2.297
+    },
+    {
+      "term": "speech",
+      "z": 1.784
+    },
+    {
+      "term": "imagery",
+      "z": 1.599
+    },
+    {
+      "term": "rhythm",
+      "z": 1.465
+    },
+    {
+      "term": "observation",
+      "z": 1.37
+    },
+    {
+      "term": "reading",
+      "z": 1.307
+    }
+  ],
+  "L_S_cingul-Marginalis": [
+    {
+      "term": "recognition",
+      "z": 2.49
+    },
+    {
+      "term": "pain",
+      "z": 2.465
+    },
+    {
+      "term": "self referential",
+      "z": 2.286
+    },
+    {
+      "term": "motor",
+      "z": 2.278
+    },
+    {
+      "term": "episodic",
+      "z": 2.101
+    },
+    {
+      "term": "movement",
+      "z": 1.845
+    },
+    {
+      "term": "encoding",
+      "z": 1.667
+    },
+    {
+      "term": "category",
+      "z": 1.559
+    },
+    {
+      "term": "choice",
+      "z": 1.538
+    },
+    {
+      "term": "observation",
+      "z": 1.484
+    },
+    {
+      "term": "anticipation",
+      "z": 1.455
+    },
+    {
+      "term": "executive",
+      "z": 1.407
+    }
+  ],
+  "L_S_circular_insula_ant": [
+    {
+      "term": "retrieval",
+      "z": 4.583
+    },
+    {
+      "term": "memory",
+      "z": 3.579
+    },
+    {
+      "term": "recognition",
+      "z": 3.524
+    },
+    {
+      "term": "decision",
+      "z": 3.295
+    },
+    {
+      "term": "emotion",
+      "z": 3.02
+    },
+    {
+      "term": "reward",
+      "z": 2.796
+    },
+    {
+      "term": "semantic",
+      "z": 2.759
+    },
+    {
+      "term": "value",
+      "z": 2.716
+    },
+    {
+      "term": "word",
+      "z": 2.556
+    },
+    {
+      "term": "working memory",
+      "z": 2.5
+    },
+    {
+      "term": "episodic",
+      "z": 2.412
+    },
+    {
+      "term": "salience",
+      "z": 2.394
+    }
+  ],
+  "L_S_circular_insula_inf": [
+    {
+      "term": "auditory",
+      "z": 6.535
+    },
+    {
+      "term": "speech",
+      "z": 4.581
+    },
+    {
+      "term": "pain",
+      "z": 3.348
+    },
+    {
+      "term": "music",
+      "z": 2.667
+    },
+    {
+      "term": "speech production",
+      "z": 2.065
+    },
+    {
+      "term": "emotion",
+      "z": 1.961
+    },
+    {
+      "term": "emotional",
+      "z": 1.83
+    },
+    {
+      "term": "salient",
+      "z": 1.665
+    },
+    {
+      "term": "fear",
+      "z": 1.622
+    },
+    {
+      "term": "empathy",
+      "z": 1.439
+    },
+    {
+      "term": "expectation",
+      "z": 1.431
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.313
+    }
+  ],
+  "L_S_circular_insula_sup": [
+    {
+      "term": "pain",
+      "z": 6.756
+    },
+    {
+      "term": "anticipation",
+      "z": 2.984
+    },
+    {
+      "term": "empathy",
+      "z": 2.486
+    },
+    {
+      "term": "arousal",
+      "z": 2.227
+    },
+    {
+      "term": "language",
+      "z": 2.15
+    },
+    {
+      "term": "motivation",
+      "z": 2.144
+    },
+    {
+      "term": "disgust",
+      "z": 2.028
+    },
+    {
+      "term": "speech production",
+      "z": 1.95
+    },
+    {
+      "term": "regulation",
+      "z": 1.915
+    },
+    {
+      "term": "phonological",
+      "z": 1.899
+    },
+    {
+      "term": "motor",
+      "z": 1.838
+    },
+    {
+      "term": "taste",
+      "z": 1.779
+    }
+  ],
+  "L_S_collat_transv_ant": [
+    {
+      "term": "semantic",
+      "z": 3.811
+    },
+    {
+      "term": "word",
+      "z": 2.672
+    },
+    {
+      "term": "memory",
+      "z": 2.086
+    },
+    {
+      "term": "episodic",
+      "z": 2.023
+    },
+    {
+      "term": "phonological",
+      "z": 1.835
+    },
+    {
+      "term": "recognition",
+      "z": 1.818
+    },
+    {
+      "term": "reading",
+      "z": 1.805
+    },
+    {
+      "term": "face",
+      "z": 1.712
+    },
+    {
+      "term": "encoding",
+      "z": 1.649
+    },
+    {
+      "term": "loss",
+      "z": 1.594
+    },
+    {
+      "term": "comprehension",
+      "z": 1.564
+    },
+    {
+      "term": "language",
+      "z": 1.519
+    }
+  ],
+  "L_S_collat_transv_post": [
+    {
+      "term": "visual",
+      "z": 3.49
+    },
+    {
+      "term": "object",
+      "z": 2.589
+    },
+    {
+      "term": "objects",
+      "z": 2.214
+    },
+    {
+      "term": "spatial",
+      "z": 1.922
+    },
+    {
+      "term": "retrieval",
+      "z": 1.864
+    },
+    {
+      "term": "attention",
+      "z": 1.719
+    },
+    {
+      "term": "place",
+      "z": 1.607
+    },
+    {
+      "term": "faces",
+      "z": 1.539
+    },
+    {
+      "term": "memory",
+      "z": 1.516
+    },
+    {
+      "term": "encoding",
+      "z": 1.445
+    },
+    {
+      "term": "decision",
+      "z": 1.255
+    },
+    {
+      "term": "episodic",
+      "z": 1.118
+    }
+  ],
+  "L_S_front_inf": [
+    {
+      "term": "memory",
+      "z": 6.985
+    },
+    {
+      "term": "semantic",
+      "z": 6.761
+    },
+    {
+      "term": "retrieval",
+      "z": 6.734
+    },
+    {
+      "term": "language",
+      "z": 6.382
+    },
+    {
+      "term": "word",
+      "z": 6.182
+    },
+    {
+      "term": "phonological",
+      "z": 5.285
+    },
+    {
+      "term": "working memory",
+      "z": 5.036
+    },
+    {
+      "term": "reading",
+      "z": 3.985
+    },
+    {
+      "term": "encoding",
+      "z": 3.931
+    },
+    {
+      "term": "comprehension",
+      "z": 3.706
+    },
+    {
+      "term": "executive",
+      "z": 3.59
+    },
+    {
+      "term": "recognition",
+      "z": 3.209
+    }
+  ],
+  "L_S_front_middle": [
+    {
+      "term": "control",
+      "z": 3.239
+    },
+    {
+      "term": "retrieval",
+      "z": 2.315
+    },
+    {
+      "term": "regulation",
+      "z": 2.232
+    },
+    {
+      "term": "episodic",
+      "z": 2.071
+    },
+    {
+      "term": "salient",
+      "z": 2.018
+    },
+    {
+      "term": "pain",
+      "z": 1.957
+    },
+    {
+      "term": "executive",
+      "z": 1.838
+    },
+    {
+      "term": "competition",
+      "z": 1.75
+    },
+    {
+      "term": "expectation",
+      "z": 1.693
+    },
+    {
+      "term": "self",
+      "z": 1.667
+    },
+    {
+      "term": "value",
+      "z": 1.619
+    },
+    {
+      "term": "memory",
+      "z": 1.584
+    }
+  ],
+  "L_S_front_sup": [
+    {
+      "term": "memory",
+      "z": 3.978
+    },
+    {
+      "term": "action",
+      "z": 3.68
+    },
+    {
+      "term": "working memory",
+      "z": 3.437
+    },
+    {
+      "term": "spatial",
+      "z": 3.184
+    },
+    {
+      "term": "retrieval",
+      "z": 3.061
+    },
+    {
+      "term": "episodic",
+      "z": 3.02
+    },
+    {
+      "term": "executive",
+      "z": 2.88
+    },
+    {
+      "term": "motor",
+      "z": 2.522
+    },
+    {
+      "term": "imagery",
+      "z": 2.464
+    },
+    {
+      "term": "default mode",
+      "z": 2.358
+    },
+    {
+      "term": "prediction",
+      "z": 2.239
+    },
+    {
+      "term": "decision",
+      "z": 2.217
+    }
+  ],
+  "L_S_interm_prim-Jensen": [
+    {
+      "term": "resting state",
+      "z": 2.499
+    },
+    {
+      "term": "executive",
+      "z": 2.086
+    },
+    {
+      "term": "default mode",
+      "z": 1.904
+    },
+    {
+      "term": "episodic",
+      "z": 1.881
+    },
+    {
+      "term": "self",
+      "z": 1.804
+    },
+    {
+      "term": "comprehension",
+      "z": 1.514
+    },
+    {
+      "term": "memory",
+      "z": 1.504
+    },
+    {
+      "term": "retrieval",
+      "z": 1.491
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.402
+    },
+    {
+      "term": "moral",
+      "z": 1.376
+    },
+    {
+      "term": "reasoning",
+      "z": 1.355
+    },
+    {
+      "term": "semantic",
+      "z": 1.101
+    }
+  ],
+  "L_S_intrapariet_and_P_trans": [
+    {
+      "term": "working memory",
+      "z": 8.589
+    },
+    {
+      "term": "memory",
+      "z": 7.132
+    },
+    {
+      "term": "reading",
+      "z": 5.765
+    },
+    {
+      "term": "spatial",
+      "z": 5.754
+    },
+    {
+      "term": "visual",
+      "z": 5.748
+    },
+    {
+      "term": "attention",
+      "z": 5.33
+    },
+    {
+      "term": "phonological",
+      "z": 5.057
+    },
+    {
+      "term": "retrieval",
+      "z": 4.982
+    },
+    {
+      "term": "word",
+      "z": 4.585
+    },
+    {
+      "term": "object",
+      "z": 4.091
+    },
+    {
+      "term": "control",
+      "z": 3.914
+    },
+    {
+      "term": "objects",
+      "z": 3.86
+    }
+  ],
+  "L_S_oc_middle_and_Lunatus": [
+    {
+      "term": "visual",
+      "z": 6.04
+    },
+    {
+      "term": "object",
+      "z": 3.186
+    },
+    {
+      "term": "objects",
+      "z": 2.969
+    },
+    {
+      "term": "faces",
+      "z": 2.887
+    },
+    {
+      "term": "face",
+      "z": 2.706
+    },
+    {
+      "term": "word",
+      "z": 2.391
+    },
+    {
+      "term": "number",
+      "z": 2.254
+    },
+    {
+      "term": "control",
+      "z": 2.169
+    },
+    {
+      "term": "reading",
+      "z": 2.08
+    },
+    {
+      "term": "action",
+      "z": 2.075
+    },
+    {
+      "term": "semantic",
+      "z": 1.942
+    },
+    {
+      "term": "language",
+      "z": 1.926
+    }
+  ],
+  "L_S_oc_sup_and_transversal": [
+    {
+      "term": "visual",
+      "z": 8.527
+    },
+    {
+      "term": "spatial",
+      "z": 4.293
+    },
+    {
+      "term": "attention",
+      "z": 4.028
+    },
+    {
+      "term": "object",
+      "z": 3.899
+    },
+    {
+      "term": "objects",
+      "z": 3.675
+    },
+    {
+      "term": "encoding",
+      "z": 3.582
+    },
+    {
+      "term": "memory",
+      "z": 2.679
+    },
+    {
+      "term": "scenes",
+      "z": 2.348
+    },
+    {
+      "term": "working memory",
+      "z": 2.264
+    },
+    {
+      "term": "observation",
+      "z": 2.143
+    },
+    {
+      "term": "imitation",
+      "z": 2.111
+    },
+    {
+      "term": "scene",
+      "z": 1.86
+    }
+  ],
+  "L_S_occipital_ant": [
+    {
+      "term": "visual",
+      "z": 9.74
+    },
+    {
+      "term": "object",
+      "z": 4.782
+    },
+    {
+      "term": "objects",
+      "z": 4.61
+    },
+    {
+      "term": "observation",
+      "z": 4.08
+    },
+    {
+      "term": "body",
+      "z": 3.597
+    },
+    {
+      "term": "action",
+      "z": 3.479
+    },
+    {
+      "term": "attention",
+      "z": 2.742
+    },
+    {
+      "term": "movement",
+      "z": 2.69
+    },
+    {
+      "term": "motor",
+      "z": 2.4
+    },
+    {
+      "term": "reading",
+      "z": 2.206
+    },
+    {
+      "term": "place",
+      "z": 2.178
+    },
+    {
+      "term": "touch",
+      "z": 2.045
+    }
+  ],
+  "L_S_oc-temp_lat": [
+    {
+      "term": "visual",
+      "z": 7.301
+    },
+    {
+      "term": "word",
+      "z": 7.286
+    },
+    {
+      "term": "reading",
+      "z": 6.682
+    },
+    {
+      "term": "face",
+      "z": 6.079
+    },
+    {
+      "term": "language",
+      "z": 5.449
+    },
+    {
+      "term": "objects",
+      "z": 5.273
+    },
+    {
+      "term": "faces",
+      "z": 4.845
+    },
+    {
+      "term": "object",
+      "z": 4.634
+    },
+    {
+      "term": "phonological",
+      "z": 4.298
+    },
+    {
+      "term": "semantic",
+      "z": 4.264
+    },
+    {
+      "term": "recognition",
+      "z": 3.766
+    },
+    {
+      "term": "encoding",
+      "z": 3.403
+    }
+  ],
+  "L_S_oc-temp_med_and_Lingual": [
+    {
+      "term": "objects",
+      "z": 5.949
+    },
+    {
+      "term": "object",
+      "z": 5.683
+    },
+    {
+      "term": "visual",
+      "z": 5.555
+    },
+    {
+      "term": "scenes",
+      "z": 4.852
+    },
+    {
+      "term": "scene",
+      "z": 4.426
+    },
+    {
+      "term": "memory",
+      "z": 4.088
+    },
+    {
+      "term": "encoding",
+      "z": 4.04
+    },
+    {
+      "term": "episodic",
+      "z": 3.825
+    },
+    {
+      "term": "face",
+      "z": 3.721
+    },
+    {
+      "term": "place",
+      "z": 3.463
+    },
+    {
+      "term": "faces",
+      "z": 3.224
+    },
+    {
+      "term": "navigation",
+      "z": 3.165
+    }
+  ],
+  "L_S_orbital_lateral": [
+    {
+      "term": "word",
+      "z": 2.929
+    },
+    {
+      "term": "semantic",
+      "z": 2.716
+    },
+    {
+      "term": "language",
+      "z": 2.049
+    },
+    {
+      "term": "phonological",
+      "z": 2.006
+    },
+    {
+      "term": "executive",
+      "z": 1.89
+    },
+    {
+      "term": "retrieval",
+      "z": 1.705
+    },
+    {
+      "term": "memory",
+      "z": 1.652
+    },
+    {
+      "term": "reading",
+      "z": 1.604
+    },
+    {
+      "term": "working memory",
+      "z": 1.434
+    },
+    {
+      "term": "reasoning",
+      "z": 1.434
+    },
+    {
+      "term": "expectation",
+      "z": 1.382
+    },
+    {
+      "term": "conflict",
+      "z": 1.346
+    }
+  ],
+  "L_S_orbital_med-olfact": [
+    {
+      "term": "resting state",
+      "z": 2.307
+    },
+    {
+      "term": "regulation",
+      "z": 2.06
+    },
+    {
+      "term": "incentive",
+      "z": 1.868
+    },
+    {
+      "term": "disgust",
+      "z": 1.826
+    },
+    {
+      "term": "emotion",
+      "z": 1.725
+    },
+    {
+      "term": "pain",
+      "z": 1.723
+    },
+    {
+      "term": "motivation",
+      "z": 1.693
+    },
+    {
+      "term": "fear",
+      "z": 1.668
+    },
+    {
+      "term": "reward",
+      "z": 1.603
+    },
+    {
+      "term": "retrieval",
+      "z": 1.601
+    },
+    {
+      "term": "loss",
+      "z": 1.383
+    },
+    {
+      "term": "prediction",
+      "z": 1.31
+    }
+  ],
+  "L_S_orbital-H_Shaped": [
+    {
+      "term": "episodic",
+      "z": 3.166
+    },
+    {
+      "term": "value",
+      "z": 2.971
+    },
+    {
+      "term": "semantic",
+      "z": 2.803
+    },
+    {
+      "term": "retrieval",
+      "z": 2.763
+    },
+    {
+      "term": "olfactory",
+      "z": 2.746
+    },
+    {
+      "term": "reward",
+      "z": 2.528
+    },
+    {
+      "term": "arousal",
+      "z": 2.265
+    },
+    {
+      "term": "encoding",
+      "z": 2.229
+    },
+    {
+      "term": "memory",
+      "z": 2.083
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.856
+    },
+    {
+      "term": "emotional",
+      "z": 1.809
+    },
+    {
+      "term": "disgust",
+      "z": 1.775
+    }
+  ],
+  "L_S_parieto_occipital": [
+    {
+      "term": "retrieval",
+      "z": 4.222
+    },
+    {
+      "term": "episodic",
+      "z": 3.804
+    },
+    {
+      "term": "spatial",
+      "z": 3.749
+    },
+    {
+      "term": "memory",
+      "z": 3.638
+    },
+    {
+      "term": "navigation",
+      "z": 3.009
+    },
+    {
+      "term": "semantic",
+      "z": 2.813
+    },
+    {
+      "term": "visual",
+      "z": 2.579
+    },
+    {
+      "term": "scenes",
+      "z": 2.206
+    },
+    {
+      "term": "recognition",
+      "z": 2.087
+    },
+    {
+      "term": "objects",
+      "z": 1.815
+    },
+    {
+      "term": "scene",
+      "z": 1.688
+    },
+    {
+      "term": "mental imagery",
+      "z": 1.68
+    }
+  ],
+  "L_S_pericallosal": [
+    {
+      "term": "pain",
+      "z": 3.822
+    },
+    {
+      "term": "episodic",
+      "z": 2.664
+    },
+    {
+      "term": "reward",
+      "z": 2.641
+    },
+    {
+      "term": "emotional",
+      "z": 2.555
+    },
+    {
+      "term": "self",
+      "z": 2.545
+    },
+    {
+      "term": "arousal",
+      "z": 2.34
+    },
+    {
+      "term": "retrieval",
+      "z": 2.322
+    },
+    {
+      "term": "value",
+      "z": 2.021
+    },
+    {
+      "term": "memory",
+      "z": 1.986
+    },
+    {
+      "term": "default mode",
+      "z": 1.738
+    },
+    {
+      "term": "stress",
+      "z": 1.704
+    },
+    {
+      "term": "emotion",
+      "z": 1.663
+    }
+  ],
+  "L_S_postcentral": [
+    {
+      "term": "motor",
+      "z": 8.825
+    },
+    {
+      "term": "action",
+      "z": 7.175
+    },
+    {
+      "term": "movement",
+      "z": 5.939
+    },
+    {
+      "term": "observation",
+      "z": 5.701
+    },
+    {
+      "term": "object",
+      "z": 4.934
+    },
+    {
+      "term": "tactile",
+      "z": 4.454
+    },
+    {
+      "term": "imagery",
+      "z": 4.193
+    },
+    {
+      "term": "spatial",
+      "z": 3.839
+    },
+    {
+      "term": "touch",
+      "z": 3.629
+    },
+    {
+      "term": "visual",
+      "z": 3.578
+    },
+    {
+      "term": "working memory",
+      "z": 3.288
+    },
+    {
+      "term": "reaching",
+      "z": 3.239
+    }
+  ],
+  "L_S_precentral-inf-part": [
+    {
+      "term": "working memory",
+      "z": 6.896
+    },
+    {
+      "term": "language",
+      "z": 6.171
+    },
+    {
+      "term": "phonological",
+      "z": 5.939
+    },
+    {
+      "term": "word",
+      "z": 5.871
+    },
+    {
+      "term": "reading",
+      "z": 5.67
+    },
+    {
+      "term": "semantic",
+      "z": 4.459
+    },
+    {
+      "term": "action",
+      "z": 4.084
+    },
+    {
+      "term": "memory",
+      "z": 3.724
+    },
+    {
+      "term": "syntactic",
+      "z": 3.528
+    },
+    {
+      "term": "retrieval",
+      "z": 3.49
+    },
+    {
+      "term": "decision",
+      "z": 3.023
+    },
+    {
+      "term": "abstract",
+      "z": 2.804
+    }
+  ],
+  "L_S_precentral-sup-part": [
+    {
+      "term": "motor",
+      "z": 9.344
+    },
+    {
+      "term": "movement",
+      "z": 6.274
+    },
+    {
+      "term": "action",
+      "z": 5.864
+    },
+    {
+      "term": "spatial",
+      "z": 5.267
+    },
+    {
+      "term": "visual",
+      "z": 5.133
+    },
+    {
+      "term": "observation",
+      "z": 5.104
+    },
+    {
+      "term": "control",
+      "z": 4.391
+    },
+    {
+      "term": "attention",
+      "z": 4.359
+    },
+    {
+      "term": "imagery",
+      "z": 3.868
+    },
+    {
+      "term": "reaching",
+      "z": 3.333
+    },
+    {
+      "term": "working memory",
+      "z": 3.048
+    },
+    {
+      "term": "objects",
+      "z": 2.4
+    }
+  ],
+  "L_S_suborbital": [
+    {
+      "term": "self",
+      "z": 4.922
+    },
+    {
+      "term": "value",
+      "z": 3.974
+    },
+    {
+      "term": "default mode",
+      "z": 3.841
+    },
+    {
+      "term": "emotional",
+      "z": 3.481
+    },
+    {
+      "term": "arousal",
+      "z": 3.164
+    },
+    {
+      "term": "choice",
+      "z": 2.875
+    },
+    {
+      "term": "social",
+      "z": 2.853
+    },
+    {
+      "term": "self referential",
+      "z": 2.751
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.649
+    },
+    {
+      "term": "episodic",
+      "z": 2.39
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.015
+    },
+    {
+      "term": "emotion",
+      "z": 2.006
+    }
+  ],
+  "L_S_subparietal": [
+    {
+      "term": "episodic",
+      "z": 3.924
+    },
+    {
+      "term": "default mode",
+      "z": 3.411
+    },
+    {
+      "term": "retrieval",
+      "z": 3.238
+    },
+    {
+      "term": "memory",
+      "z": 3.153
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.614
+    },
+    {
+      "term": "self",
+      "z": 2.464
+    },
+    {
+      "term": "resting state",
+      "z": 2.149
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.147
+    },
+    {
+      "term": "reasoning",
+      "z": 1.593
+    },
+    {
+      "term": "emotional",
+      "z": 1.557
+    },
+    {
+      "term": "semantic",
+      "z": 1.525
+    },
+    {
+      "term": "rest",
+      "z": 1.492
+    }
+  ],
+  "L_S_temporal_inf": [
+    {
+      "term": "word",
+      "z": 4.006
+    },
+    {
+      "term": "visual",
+      "z": 3.971
+    },
+    {
+      "term": "action",
+      "z": 2.993
+    },
+    {
+      "term": "object",
+      "z": 2.833
+    },
+    {
+      "term": "objects",
+      "z": 1.968
+    },
+    {
+      "term": "observation",
+      "z": 1.898
+    },
+    {
+      "term": "phonological",
+      "z": 1.892
+    },
+    {
+      "term": "recognition",
+      "z": 1.868
+    },
+    {
+      "term": "number",
+      "z": 1.692
+    },
+    {
+      "term": "semantic",
+      "z": 1.662
+    },
+    {
+      "term": "salience network",
+      "z": 1.617
+    },
+    {
+      "term": "empathy",
+      "z": 1.554
+    }
+  ],
+  "L_S_temporal_sup": [
+    {
+      "term": "language",
+      "z": 9.478
+    },
+    {
+      "term": "semantic",
+      "z": 8.872
+    },
+    {
+      "term": "comprehension",
+      "z": 8.142
+    },
+    {
+      "term": "speech",
+      "z": 7.362
+    },
+    {
+      "term": "word",
+      "z": 7.353
+    },
+    {
+      "term": "reading",
+      "z": 5.938
+    },
+    {
+      "term": "syntactic",
+      "z": 5.91
+    },
+    {
+      "term": "phonological",
+      "z": 5.437
+    },
+    {
+      "term": "auditory",
+      "z": 4.88
+    },
+    {
+      "term": "social",
+      "z": 4.492
+    },
+    {
+      "term": "retrieval",
+      "z": 4.035
+    },
+    {
+      "term": "speech perception",
+      "z": 3.463
+    }
+  ],
+  "L_S_temporal_transverse": [
+    {
+      "term": "auditory",
+      "z": 9.581
+    },
+    {
+      "term": "speech",
+      "z": 6.094
+    },
+    {
+      "term": "music",
+      "z": 2.923
+    },
+    {
+      "term": "voice",
+      "z": 2.862
+    },
+    {
+      "term": "speech production",
+      "z": 2.695
+    },
+    {
+      "term": "speech perception",
+      "z": 2.584
+    },
+    {
+      "term": "language",
+      "z": 2.502
+    },
+    {
+      "term": "phonological",
+      "z": 2.072
+    },
+    {
+      "term": "comprehension",
+      "z": 1.887
+    },
+    {
+      "term": "motor",
+      "z": 1.722
+    },
+    {
+      "term": "inference",
+      "z": 1.615
+    },
+    {
+      "term": "word",
+      "z": 1.403
+    }
+  ],
+  "R_G_and_S_frontomargin": [
+    {
+      "term": "social",
+      "z": 2.337
+    },
+    {
+      "term": "regulation",
+      "z": 2.325
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.29
+    },
+    {
+      "term": "retrieval",
+      "z": 2.148
+    },
+    {
+      "term": "emotion",
+      "z": 2.069
+    },
+    {
+      "term": "reward",
+      "z": 1.925
+    },
+    {
+      "term": "value",
+      "z": 1.648
+    },
+    {
+      "term": "control",
+      "z": 1.536
+    },
+    {
+      "term": "appraisal",
+      "z": 1.494
+    },
+    {
+      "term": "pain",
+      "z": 1.428
+    },
+    {
+      "term": "navigation",
+      "z": 1.426
+    },
+    {
+      "term": "fear",
+      "z": 1.389
+    }
+  ],
+  "R_G_and_S_occipital_inf": [
+    {
+      "term": "visual",
+      "z": 10.22
+    },
+    {
+      "term": "face",
+      "z": 8.425
+    },
+    {
+      "term": "faces",
+      "z": 7.906
+    },
+    {
+      "term": "object",
+      "z": 5.235
+    },
+    {
+      "term": "recognition",
+      "z": 4.181
+    },
+    {
+      "term": "objects",
+      "z": 4.137
+    },
+    {
+      "term": "reading",
+      "z": 3.978
+    },
+    {
+      "term": "emotional",
+      "z": 3.266
+    },
+    {
+      "term": "happy",
+      "z": 3.085
+    },
+    {
+      "term": "body",
+      "z": 3.037
+    },
+    {
+      "term": "word",
+      "z": 2.733
+    },
+    {
+      "term": "action",
+      "z": 2.53
+    }
+  ],
+  "R_G_and_S_paracentral": [
+    {
+      "term": "motor",
+      "z": 5.028
+    },
+    {
+      "term": "movement",
+      "z": 3.14
+    },
+    {
+      "term": "pain",
+      "z": 3.132
+    },
+    {
+      "term": "body",
+      "z": 2.451
+    },
+    {
+      "term": "imagery",
+      "z": 2.218
+    },
+    {
+      "term": "fear",
+      "z": 1.793
+    },
+    {
+      "term": "anticipation",
+      "z": 1.632
+    },
+    {
+      "term": "rhythm",
+      "z": 1.535
+    },
+    {
+      "term": "threat",
+      "z": 1.436
+    },
+    {
+      "term": "stress",
+      "z": 1.422
+    },
+    {
+      "term": "prediction error",
+      "z": 1.386
+    },
+    {
+      "term": "executive",
+      "z": 1.337
+    }
+  ],
+  "R_G_and_S_subcentral": [
+    {
+      "term": "pain",
+      "z": 4.858
+    },
+    {
+      "term": "motor",
+      "z": 4.712
+    },
+    {
+      "term": "tactile",
+      "z": 3.622
+    },
+    {
+      "term": "speech production",
+      "z": 3.6
+    },
+    {
+      "term": "auditory",
+      "z": 3.559
+    },
+    {
+      "term": "speech",
+      "z": 3.536
+    },
+    {
+      "term": "movement",
+      "z": 3.164
+    },
+    {
+      "term": "touch",
+      "z": 2.998
+    },
+    {
+      "term": "speech perception",
+      "z": 2.34
+    },
+    {
+      "term": "taste",
+      "z": 2.197
+    },
+    {
+      "term": "olfactory",
+      "z": 1.932
+    },
+    {
+      "term": "rest",
+      "z": 1.891
+    }
+  ],
+  "R_G_and_S_transv_frontopol": [
+    {
+      "term": "autobiographical",
+      "z": 2.758
+    },
+    {
+      "term": "default mode",
+      "z": 2.395
+    },
+    {
+      "term": "memory",
+      "z": 2.097
+    },
+    {
+      "term": "intentions",
+      "z": 1.981
+    },
+    {
+      "term": "rest",
+      "z": 1.872
+    },
+    {
+      "term": "episodic",
+      "z": 1.866
+    },
+    {
+      "term": "retrieval",
+      "z": 1.631
+    },
+    {
+      "term": "emotional",
+      "z": 1.598
+    },
+    {
+      "term": "anxiety",
+      "z": 1.462
+    },
+    {
+      "term": "executive",
+      "z": 1.356
+    },
+    {
+      "term": "resting state",
+      "z": 1.224
+    },
+    {
+      "term": "recall",
+      "z": 1.209
+    }
+  ],
+  "R_G_and_S_cingul-Ant": [
+    {
+      "term": "social",
+      "z": 5.053
+    },
+    {
+      "term": "default mode",
+      "z": 4.997
+    },
+    {
+      "term": "reward",
+      "z": 4.692
+    },
+    {
+      "term": "value",
+      "z": 4.178
+    },
+    {
+      "term": "pain",
+      "z": 3.806
+    },
+    {
+      "term": "self",
+      "z": 3.714
+    },
+    {
+      "term": "emotional",
+      "z": 3.449
+    },
+    {
+      "term": "regulation",
+      "z": 3.32
+    },
+    {
+      "term": "emotion",
+      "z": 3.302
+    },
+    {
+      "term": "salience",
+      "z": 3.057
+    },
+    {
+      "term": "salience network",
+      "z": 3.039
+    },
+    {
+      "term": "choice",
+      "z": 2.931
+    }
+  ],
+  "R_G_and_S_cingul-Mid-Ant": [
+    {
+      "term": "pain",
+      "z": 6.8
+    },
+    {
+      "term": "control",
+      "z": 5.882
+    },
+    {
+      "term": "conflict",
+      "z": 5.103
+    },
+    {
+      "term": "inhibition",
+      "z": 3.924
+    },
+    {
+      "term": "motor",
+      "z": 3.75
+    },
+    {
+      "term": "executive",
+      "z": 3.347
+    },
+    {
+      "term": "attention",
+      "z": 3.018
+    },
+    {
+      "term": "anticipation",
+      "z": 2.923
+    },
+    {
+      "term": "regulation",
+      "z": 2.812
+    },
+    {
+      "term": "decision",
+      "z": 2.677
+    },
+    {
+      "term": "uncertainty",
+      "z": 2.51
+    },
+    {
+      "term": "working memory",
+      "z": 2.308
+    }
+  ],
+  "R_G_and_S_cingul-Mid-Post": [
+    {
+      "term": "motor",
+      "z": 6.003
+    },
+    {
+      "term": "pain",
+      "z": 4.954
+    },
+    {
+      "term": "movement",
+      "z": 3.33
+    },
+    {
+      "term": "control",
+      "z": 2.697
+    },
+    {
+      "term": "arousal",
+      "z": 2.458
+    },
+    {
+      "term": "anticipation",
+      "z": 2.158
+    },
+    {
+      "term": "default mode",
+      "z": 2.02
+    },
+    {
+      "term": "imagery",
+      "z": 1.803
+    },
+    {
+      "term": "empathy",
+      "z": 1.722
+    },
+    {
+      "term": "emotional",
+      "z": 1.704
+    },
+    {
+      "term": "regulation",
+      "z": 1.679
+    },
+    {
+      "term": "navigation",
+      "z": 1.624
+    }
+  ],
+  "R_G_cingul-Post-dorsal": [
+    {
+      "term": "default mode",
+      "z": 6.771
+    },
+    {
+      "term": "resting state",
+      "z": 4.515
+    },
+    {
+      "term": "rest",
+      "z": 3.593
+    },
+    {
+      "term": "social",
+      "z": 3.359
+    },
+    {
+      "term": "retrieval",
+      "z": 3.33
+    },
+    {
+      "term": "self",
+      "z": 3.2
+    },
+    {
+      "term": "mentalizing",
+      "z": 3.014
+    },
+    {
+      "term": "memory",
+      "z": 2.996
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.769
+    },
+    {
+      "term": "episodic",
+      "z": 2.756
+    },
+    {
+      "term": "emotional",
+      "z": 2.499
+    },
+    {
+      "term": "self referential",
+      "z": 2.243
+    }
+  ],
+  "R_G_cingul-Post-ventral": [
+    {
+      "term": "memory",
+      "z": 4.753
+    },
+    {
+      "term": "episodic",
+      "z": 4.413
+    },
+    {
+      "term": "default mode",
+      "z": 3.769
+    },
+    {
+      "term": "retrieval",
+      "z": 3.588
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.258
+    },
+    {
+      "term": "navigation",
+      "z": 2.596
+    },
+    {
+      "term": "semantic",
+      "z": 2.519
+    },
+    {
+      "term": "recall",
+      "z": 2.477
+    },
+    {
+      "term": "resting state",
+      "z": 2.476
+    },
+    {
+      "term": "scenes",
+      "z": 2.154
+    },
+    {
+      "term": "spatial",
+      "z": 2.011
+    },
+    {
+      "term": "scene",
+      "z": 1.878
+    }
+  ],
+  "R_G_cuneus": [
+    {
+      "term": "visual",
+      "z": 5.616
+    },
+    {
+      "term": "imagery",
+      "z": 2.614
+    },
+    {
+      "term": "object",
+      "z": 2.492
+    },
+    {
+      "term": "spatial",
+      "z": 2.124
+    },
+    {
+      "term": "navigation",
+      "z": 2.04
+    },
+    {
+      "term": "mental imagery",
+      "z": 1.886
+    },
+    {
+      "term": "reaching",
+      "z": 1.649
+    },
+    {
+      "term": "encoding",
+      "z": 1.638
+    },
+    {
+      "term": "auditory",
+      "z": 1.605
+    },
+    {
+      "term": "motivation",
+      "z": 1.54
+    },
+    {
+      "term": "salience network",
+      "z": 1.508
+    },
+    {
+      "term": "reasoning",
+      "z": 1.471
+    }
+  ],
+  "R_G_front_inf-Opercular": [
+    {
+      "term": "pain",
+      "z": 6.391
+    },
+    {
+      "term": "motor",
+      "z": 5.48
+    },
+    {
+      "term": "observation",
+      "z": 3.65
+    },
+    {
+      "term": "inhibition",
+      "z": 3.6
+    },
+    {
+      "term": "movement",
+      "z": 3.273
+    },
+    {
+      "term": "imitation",
+      "z": 2.962
+    },
+    {
+      "term": "auditory",
+      "z": 2.834
+    },
+    {
+      "term": "action",
+      "z": 2.741
+    },
+    {
+      "term": "music",
+      "z": 2.507
+    },
+    {
+      "term": "body",
+      "z": 2.175
+    },
+    {
+      "term": "empathy",
+      "z": 2.105
+    },
+    {
+      "term": "threat",
+      "z": 1.875
+    }
+  ],
+  "R_G_front_inf-Orbital": [
+    {
+      "term": "social",
+      "z": 2.438
+    },
+    {
+      "term": "emotional",
+      "z": 2.316
+    },
+    {
+      "term": "emotion",
+      "z": 2.237
+    },
+    {
+      "term": "comprehension",
+      "z": 2.127
+    },
+    {
+      "term": "voice",
+      "z": 2.111
+    },
+    {
+      "term": "semantic",
+      "z": 2.107
+    },
+    {
+      "term": "empathy",
+      "z": 1.856
+    },
+    {
+      "term": "competition",
+      "z": 1.718
+    },
+    {
+      "term": "risk",
+      "z": 1.698
+    },
+    {
+      "term": "faces",
+      "z": 1.693
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.636
+    },
+    {
+      "term": "self",
+      "z": 1.438
+    }
+  ],
+  "R_G_front_inf-Triangul": [
+    {
+      "term": "emotional",
+      "z": 6.244
+    },
+    {
+      "term": "emotion",
+      "z": 4.54
+    },
+    {
+      "term": "social",
+      "z": 4.149
+    },
+    {
+      "term": "comprehension",
+      "z": 3.75
+    },
+    {
+      "term": "empathy",
+      "z": 3.56
+    },
+    {
+      "term": "language",
+      "z": 2.626
+    },
+    {
+      "term": "recognition",
+      "z": 2.367
+    },
+    {
+      "term": "observation",
+      "z": 2.333
+    },
+    {
+      "term": "regulation",
+      "z": 2.251
+    },
+    {
+      "term": "inhibition",
+      "z": 2.225
+    },
+    {
+      "term": "encoding",
+      "z": 2.164
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.92
+    }
+  ],
+  "R_G_front_middle": [
+    {
+      "term": "working memory",
+      "z": 9.459
+    },
+    {
+      "term": "memory",
+      "z": 7.719
+    },
+    {
+      "term": "control",
+      "z": 6.939
+    },
+    {
+      "term": "executive",
+      "z": 5.537
+    },
+    {
+      "term": "inhibition",
+      "z": 4.368
+    },
+    {
+      "term": "retrieval",
+      "z": 3.688
+    },
+    {
+      "term": "reasoning",
+      "z": 3.026
+    },
+    {
+      "term": "attention",
+      "z": 2.892
+    },
+    {
+      "term": "regulation",
+      "z": 2.767
+    },
+    {
+      "term": "uncertainty",
+      "z": 2.378
+    },
+    {
+      "term": "conflict",
+      "z": 2.339
+    },
+    {
+      "term": "episodic",
+      "z": 2.32
+    }
+  ],
+  "R_G_front_sup": [
+    {
+      "term": "motor",
+      "z": 6.923
+    },
+    {
+      "term": "self",
+      "z": 4.698
+    },
+    {
+      "term": "mentalizing",
+      "z": 4.188
+    },
+    {
+      "term": "control",
+      "z": 3.934
+    },
+    {
+      "term": "social",
+      "z": 3.78
+    },
+    {
+      "term": "decision",
+      "z": 3.631
+    },
+    {
+      "term": "imagery",
+      "z": 3.569
+    },
+    {
+      "term": "inhibition",
+      "z": 3.486
+    },
+    {
+      "term": "conflict",
+      "z": 3.246
+    },
+    {
+      "term": "regulation",
+      "z": 3.125
+    },
+    {
+      "term": "empathy",
+      "z": 3.0
+    },
+    {
+      "term": "emotional",
+      "z": 2.886
+    }
+  ],
+  "R_G_Ins_lg_and_S_cent_ins": [
+    {
+      "term": "pain",
+      "z": 6.81
+    },
+    {
+      "term": "taste",
+      "z": 2.714
+    },
+    {
+      "term": "emotional",
+      "z": 2.416
+    },
+    {
+      "term": "disgust",
+      "z": 2.384
+    },
+    {
+      "term": "tactile",
+      "z": 2.348
+    },
+    {
+      "term": "auditory",
+      "z": 2.082
+    },
+    {
+      "term": "fear",
+      "z": 1.979
+    },
+    {
+      "term": "touch",
+      "z": 1.892
+    },
+    {
+      "term": "speech production",
+      "z": 1.827
+    },
+    {
+      "term": "anxiety",
+      "z": 1.823
+    },
+    {
+      "term": "olfactory",
+      "z": 1.809
+    },
+    {
+      "term": "arousal",
+      "z": 1.708
+    }
+  ],
+  "R_G_insular_short": [
+    {
+      "term": "pain",
+      "z": 6.4
+    },
+    {
+      "term": "anticipation",
+      "z": 3.457
+    },
+    {
+      "term": "working memory",
+      "z": 3.421
+    },
+    {
+      "term": "reward",
+      "z": 3.393
+    },
+    {
+      "term": "taste",
+      "z": 3.279
+    },
+    {
+      "term": "inhibition",
+      "z": 3.066
+    },
+    {
+      "term": "decision",
+      "z": 2.877
+    },
+    {
+      "term": "fear",
+      "z": 2.79
+    },
+    {
+      "term": "phonological",
+      "z": 2.714
+    },
+    {
+      "term": "salience network",
+      "z": 2.689
+    },
+    {
+      "term": "disgust",
+      "z": 2.637
+    },
+    {
+      "term": "prediction",
+      "z": 2.486
+    }
+  ],
+  "R_G_occipital_middle": [
+    {
+      "term": "visual",
+      "z": 8.992
+    },
+    {
+      "term": "spatial",
+      "z": 5.713
+    },
+    {
+      "term": "objects",
+      "z": 5.685
+    },
+    {
+      "term": "object",
+      "z": 5.392
+    },
+    {
+      "term": "face",
+      "z": 4.456
+    },
+    {
+      "term": "scenes",
+      "z": 4.036
+    },
+    {
+      "term": "attention",
+      "z": 3.657
+    },
+    {
+      "term": "scene",
+      "z": 3.61
+    },
+    {
+      "term": "observation",
+      "z": 3.6
+    },
+    {
+      "term": "action",
+      "z": 3.569
+    },
+    {
+      "term": "faces",
+      "z": 3.298
+    },
+    {
+      "term": "reading",
+      "z": 2.889
+    }
+  ],
+  "R_G_occipital_sup": [
+    {
+      "term": "visual",
+      "z": 6.659
+    },
+    {
+      "term": "observation",
+      "z": 3.256
+    },
+    {
+      "term": "object",
+      "z": 2.984
+    },
+    {
+      "term": "attention",
+      "z": 2.969
+    },
+    {
+      "term": "scenes",
+      "z": 2.547
+    },
+    {
+      "term": "action",
+      "z": 2.422
+    },
+    {
+      "term": "spatial",
+      "z": 2.374
+    },
+    {
+      "term": "recognition",
+      "z": 2.073
+    },
+    {
+      "term": "imagery",
+      "z": 2.041
+    },
+    {
+      "term": "episodic",
+      "z": 2.006
+    },
+    {
+      "term": "reaching",
+      "z": 1.895
+    },
+    {
+      "term": "memory",
+      "z": 1.884
+    }
+  ],
+  "R_G_oc-temp_lat-fusifor": [
+    {
+      "term": "face",
+      "z": 10.698
+    },
+    {
+      "term": "faces",
+      "z": 9.705
+    },
+    {
+      "term": "visual",
+      "z": 9.242
+    },
+    {
+      "term": "recognition",
+      "z": 6.401
+    },
+    {
+      "term": "objects",
+      "z": 6.267
+    },
+    {
+      "term": "object",
+      "z": 5.977
+    },
+    {
+      "term": "encoding",
+      "z": 5.953
+    },
+    {
+      "term": "memory",
+      "z": 4.938
+    },
+    {
+      "term": "scenes",
+      "z": 3.979
+    },
+    {
+      "term": "scene",
+      "z": 3.787
+    },
+    {
+      "term": "category",
+      "z": 3.733
+    },
+    {
+      "term": "body",
+      "z": 3.157
+    }
+  ],
+  "R_G_oc-temp_med-Lingual": [
+    {
+      "term": "visual",
+      "z": 7.899
+    },
+    {
+      "term": "encoding",
+      "z": 3.57
+    },
+    {
+      "term": "spatial",
+      "z": 2.422
+    },
+    {
+      "term": "navigation",
+      "z": 2.054
+    },
+    {
+      "term": "recognition",
+      "z": 2.034
+    },
+    {
+      "term": "attention",
+      "z": 1.954
+    },
+    {
+      "term": "category",
+      "z": 1.917
+    },
+    {
+      "term": "scenes",
+      "z": 1.624
+    },
+    {
+      "term": "episodic",
+      "z": 1.594
+    },
+    {
+      "term": "scene",
+      "z": 1.469
+    },
+    {
+      "term": "emotional",
+      "z": 1.401
+    },
+    {
+      "term": "object",
+      "z": 1.34
+    }
+  ],
+  "R_G_oc-temp_med-Parahip": [
+    {
+      "term": "memory",
+      "z": 7.229
+    },
+    {
+      "term": "episodic",
+      "z": 5.732
+    },
+    {
+      "term": "emotional",
+      "z": 5.629
+    },
+    {
+      "term": "faces",
+      "z": 5.175
+    },
+    {
+      "term": "retrieval",
+      "z": 4.618
+    },
+    {
+      "term": "encoding",
+      "z": 4.268
+    },
+    {
+      "term": "fear",
+      "z": 4.089
+    },
+    {
+      "term": "scenes",
+      "z": 3.81
+    },
+    {
+      "term": "face",
+      "z": 3.642
+    },
+    {
+      "term": "emotion",
+      "z": 3.167
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.141
+    },
+    {
+      "term": "fearful",
+      "z": 3.021
+    }
+  ],
+  "R_G_orbital": [
+    {
+      "term": "emotional",
+      "z": 5.413
+    },
+    {
+      "term": "emotion",
+      "z": 4.3
+    },
+    {
+      "term": "reward",
+      "z": 3.879
+    },
+    {
+      "term": "social",
+      "z": 3.5
+    },
+    {
+      "term": "retrieval",
+      "z": 3.33
+    },
+    {
+      "term": "threat",
+      "z": 2.983
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.946
+    },
+    {
+      "term": "decision",
+      "z": 2.808
+    },
+    {
+      "term": "disgust",
+      "z": 2.647
+    },
+    {
+      "term": "sad",
+      "z": 2.646
+    },
+    {
+      "term": "value",
+      "z": 2.596
+    },
+    {
+      "term": "regulation",
+      "z": 2.583
+    }
+  ],
+  "R_G_pariet_inf-Angular": [
+    {
+      "term": "default mode",
+      "z": 6.197
+    },
+    {
+      "term": "retrieval",
+      "z": 4.748
+    },
+    {
+      "term": "memory",
+      "z": 4.606
+    },
+    {
+      "term": "episodic",
+      "z": 4.389
+    },
+    {
+      "term": "attention",
+      "z": 3.34
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.969
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.817
+    },
+    {
+      "term": "executive",
+      "z": 2.735
+    },
+    {
+      "term": "spatial",
+      "z": 2.565
+    },
+    {
+      "term": "abstract",
+      "z": 2.505
+    },
+    {
+      "term": "social",
+      "z": 2.494
+    },
+    {
+      "term": "working memory",
+      "z": 2.434
+    }
+  ],
+  "R_G_pariet_inf-Supramar": [
+    {
+      "term": "motor",
+      "z": 7.812
+    },
+    {
+      "term": "pain",
+      "z": 7.495
+    },
+    {
+      "term": "tactile",
+      "z": 6.323
+    },
+    {
+      "term": "action",
+      "z": 5.043
+    },
+    {
+      "term": "movement",
+      "z": 4.789
+    },
+    {
+      "term": "observation",
+      "z": 4.681
+    },
+    {
+      "term": "touch",
+      "z": 3.566
+    },
+    {
+      "term": "spatial",
+      "z": 3.353
+    },
+    {
+      "term": "body",
+      "z": 3.075
+    },
+    {
+      "term": "imagery",
+      "z": 3.046
+    },
+    {
+      "term": "inhibition",
+      "z": 2.785
+    },
+    {
+      "term": "attention",
+      "z": 2.472
+    }
+  ],
+  "R_G_parietal_sup": [
+    {
+      "term": "spatial",
+      "z": 7.312
+    },
+    {
+      "term": "motor",
+      "z": 6.263
+    },
+    {
+      "term": "visual",
+      "z": 6.188
+    },
+    {
+      "term": "movement",
+      "z": 6.091
+    },
+    {
+      "term": "action",
+      "z": 6.007
+    },
+    {
+      "term": "observation",
+      "z": 5.859
+    },
+    {
+      "term": "attention",
+      "z": 4.786
+    },
+    {
+      "term": "object",
+      "z": 4.187
+    },
+    {
+      "term": "imagery",
+      "z": 4.08
+    },
+    {
+      "term": "body",
+      "z": 3.388
+    },
+    {
+      "term": "reaching",
+      "z": 2.924
+    },
+    {
+      "term": "objects",
+      "z": 2.526
+    }
+  ],
+  "R_G_postcentral": [
+    {
+      "term": "motor",
+      "z": 11.507
+    },
+    {
+      "term": "movement",
+      "z": 6.047
+    },
+    {
+      "term": "tactile",
+      "z": 4.752
+    },
+    {
+      "term": "pain",
+      "z": 3.617
+    },
+    {
+      "term": "touch",
+      "z": 3.25
+    },
+    {
+      "term": "observation",
+      "z": 2.732
+    },
+    {
+      "term": "imagery",
+      "z": 2.663
+    },
+    {
+      "term": "action",
+      "z": 2.484
+    },
+    {
+      "term": "imitation",
+      "z": 2.266
+    },
+    {
+      "term": "rhythm",
+      "z": 1.753
+    },
+    {
+      "term": "intentions",
+      "z": 1.354
+    },
+    {
+      "term": "spatial",
+      "z": 1.258
+    }
+  ],
+  "R_G_precentral": [
+    {
+      "term": "motor",
+      "z": 14.907
+    },
+    {
+      "term": "movement",
+      "z": 7.025
+    },
+    {
+      "term": "observation",
+      "z": 6.089
+    },
+    {
+      "term": "action",
+      "z": 6.085
+    },
+    {
+      "term": "imagery",
+      "z": 4.057
+    },
+    {
+      "term": "imitation",
+      "z": 3.714
+    },
+    {
+      "term": "spatial",
+      "z": 3.293
+    },
+    {
+      "term": "tactile",
+      "z": 3.247
+    },
+    {
+      "term": "touch",
+      "z": 2.799
+    },
+    {
+      "term": "speech",
+      "z": 2.342
+    },
+    {
+      "term": "body",
+      "z": 2.218
+    },
+    {
+      "term": "speech production",
+      "z": 2.177
+    }
+  ],
+  "R_G_precuneus": [
+    {
+      "term": "episodic",
+      "z": 5.59
+    },
+    {
+      "term": "default mode",
+      "z": 5.205
+    },
+    {
+      "term": "retrieval",
+      "z": 4.811
+    },
+    {
+      "term": "spatial",
+      "z": 4.19
+    },
+    {
+      "term": "memory",
+      "z": 4.001
+    },
+    {
+      "term": "attention",
+      "z": 3.319
+    },
+    {
+      "term": "navigation",
+      "z": 2.942
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.782
+    },
+    {
+      "term": "control",
+      "z": 2.636
+    },
+    {
+      "term": "executive",
+      "z": 2.399
+    },
+    {
+      "term": "resting state",
+      "z": 2.331
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.192
+    }
+  ],
+  "R_G_rectus": [
+    {
+      "term": "social",
+      "z": 4.576
+    },
+    {
+      "term": "emotional",
+      "z": 2.84
+    },
+    {
+      "term": "value",
+      "z": 2.747
+    },
+    {
+      "term": "reward",
+      "z": 2.625
+    },
+    {
+      "term": "default mode",
+      "z": 2.494
+    },
+    {
+      "term": "emotion",
+      "z": 2.486
+    },
+    {
+      "term": "salience",
+      "z": 2.437
+    },
+    {
+      "term": "fear",
+      "z": 2.422
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.334
+    },
+    {
+      "term": "arousal",
+      "z": 2.275
+    },
+    {
+      "term": "self",
+      "z": 2.192
+    },
+    {
+      "term": "faces",
+      "z": 2.187
+    }
+  ],
+  "R_G_subcallosal": [
+    {
+      "term": "reward",
+      "z": 3.669
+    },
+    {
+      "term": "motivation",
+      "z": 2.292
+    },
+    {
+      "term": "decision",
+      "z": 1.806
+    },
+    {
+      "term": "value",
+      "z": 1.729
+    },
+    {
+      "term": "arousal",
+      "z": 1.597
+    },
+    {
+      "term": "anxiety",
+      "z": 1.565
+    },
+    {
+      "term": "emotion",
+      "z": 1.425
+    },
+    {
+      "term": "face",
+      "z": 1.398
+    },
+    {
+      "term": "loss",
+      "z": 1.254
+    },
+    {
+      "term": "threat",
+      "z": 1.252
+    },
+    {
+      "term": "empathic",
+      "z": 1.224
+    },
+    {
+      "term": "self referential",
+      "z": 1.163
+    }
+  ],
+  "R_G_temp_sup-G_T_transv": [
+    {
+      "term": "auditory",
+      "z": 12.05
+    },
+    {
+      "term": "speech",
+      "z": 6.818
+    },
+    {
+      "term": "music",
+      "z": 4.005
+    },
+    {
+      "term": "speech perception",
+      "z": 3.172
+    },
+    {
+      "term": "speech production",
+      "z": 2.51
+    },
+    {
+      "term": "comprehension",
+      "z": 2.438
+    },
+    {
+      "term": "tactile",
+      "z": 2.31
+    },
+    {
+      "term": "touch",
+      "z": 2.145
+    },
+    {
+      "term": "language",
+      "z": 2.126
+    },
+    {
+      "term": "voice",
+      "z": 2.122
+    },
+    {
+      "term": "motor",
+      "z": 1.687
+    },
+    {
+      "term": "emotion",
+      "z": 1.629
+    }
+  ],
+  "R_G_temp_sup-Lateral": [
+    {
+      "term": "auditory",
+      "z": 13.978
+    },
+    {
+      "term": "speech",
+      "z": 11.088
+    },
+    {
+      "term": "voice",
+      "z": 5.767
+    },
+    {
+      "term": "comprehension",
+      "z": 5.555
+    },
+    {
+      "term": "language",
+      "z": 5.408
+    },
+    {
+      "term": "music",
+      "z": 4.575
+    },
+    {
+      "term": "speech perception",
+      "z": 4.574
+    },
+    {
+      "term": "semantic",
+      "z": 4.456
+    },
+    {
+      "term": "speech production",
+      "z": 4.402
+    },
+    {
+      "term": "phonological",
+      "z": 4.397
+    },
+    {
+      "term": "word",
+      "z": 3.025
+    },
+    {
+      "term": "emotional",
+      "z": 2.946
+    }
+  ],
+  "R_G_temp_sup-Plan_polar": [
+    {
+      "term": "emotional",
+      "z": 3.812
+    },
+    {
+      "term": "auditory",
+      "z": 3.478
+    },
+    {
+      "term": "music",
+      "z": 2.973
+    },
+    {
+      "term": "emotion",
+      "z": 2.834
+    },
+    {
+      "term": "faces",
+      "z": 2.312
+    },
+    {
+      "term": "fearful",
+      "z": 2.143
+    },
+    {
+      "term": "speech",
+      "z": 2.129
+    },
+    {
+      "term": "fear",
+      "z": 1.824
+    },
+    {
+      "term": "arousal",
+      "z": 1.779
+    },
+    {
+      "term": "episodic",
+      "z": 1.437
+    },
+    {
+      "term": "language",
+      "z": 1.405
+    },
+    {
+      "term": "stress",
+      "z": 1.289
+    }
+  ],
+  "R_G_temp_sup-Plan_tempo": [
+    {
+      "term": "auditory",
+      "z": 7.765
+    },
+    {
+      "term": "motor",
+      "z": 4.381
+    },
+    {
+      "term": "speech",
+      "z": 3.463
+    },
+    {
+      "term": "movement",
+      "z": 3.306
+    },
+    {
+      "term": "observation",
+      "z": 2.354
+    },
+    {
+      "term": "action",
+      "z": 2.293
+    },
+    {
+      "term": "tactile",
+      "z": 2.213
+    },
+    {
+      "term": "speech production",
+      "z": 1.896
+    },
+    {
+      "term": "fear",
+      "z": 1.825
+    },
+    {
+      "term": "speech perception",
+      "z": 1.773
+    },
+    {
+      "term": "voice",
+      "z": 1.688
+    },
+    {
+      "term": "language",
+      "z": 1.665
+    }
+  ],
+  "R_G_temporal_inf": [
+    {
+      "term": "visual",
+      "z": 4.38
+    },
+    {
+      "term": "object",
+      "z": 4.062
+    },
+    {
+      "term": "face",
+      "z": 3.743
+    },
+    {
+      "term": "objects",
+      "z": 3.585
+    },
+    {
+      "term": "recognition",
+      "z": 2.727
+    },
+    {
+      "term": "body",
+      "z": 2.702
+    },
+    {
+      "term": "encoding",
+      "z": 2.412
+    },
+    {
+      "term": "faces",
+      "z": 2.401
+    },
+    {
+      "term": "observation",
+      "z": 2.297
+    },
+    {
+      "term": "memory",
+      "z": 2.269
+    },
+    {
+      "term": "retrieval",
+      "z": 2.04
+    },
+    {
+      "term": "empathy",
+      "z": 1.946
+    }
+  ],
+  "R_G_temporal_middle": [
+    {
+      "term": "social",
+      "z": 4.897
+    },
+    {
+      "term": "default mode",
+      "z": 4.536
+    },
+    {
+      "term": "observation",
+      "z": 3.652
+    },
+    {
+      "term": "comprehension",
+      "z": 3.551
+    },
+    {
+      "term": "mentalizing",
+      "z": 3.412
+    },
+    {
+      "term": "speech",
+      "z": 3.291
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.105
+    },
+    {
+      "term": "emotional",
+      "z": 2.925
+    },
+    {
+      "term": "face",
+      "z": 2.827
+    },
+    {
+      "term": "episodic",
+      "z": 2.806
+    },
+    {
+      "term": "category",
+      "z": 2.57
+    },
+    {
+      "term": "auditory",
+      "z": 2.501
+    }
+  ],
+  "R_Lat_Fis-ant-Horizont": [
+    {
+      "term": "empathy",
+      "z": 2.295
+    },
+    {
+      "term": "pain",
+      "z": 2.222
+    },
+    {
+      "term": "inhibition",
+      "z": 2.129
+    },
+    {
+      "term": "emotional",
+      "z": 2.096
+    },
+    {
+      "term": "reading",
+      "z": 1.801
+    },
+    {
+      "term": "word",
+      "z": 1.734
+    },
+    {
+      "term": "music",
+      "z": 1.712
+    },
+    {
+      "term": "empathic",
+      "z": 1.698
+    },
+    {
+      "term": "happy",
+      "z": 1.528
+    },
+    {
+      "term": "phonological",
+      "z": 1.454
+    },
+    {
+      "term": "speech production",
+      "z": 1.453
+    },
+    {
+      "term": "fear",
+      "z": 1.439
+    }
+  ],
+  "R_Lat_Fis-ant-Vertical": [
+    {
+      "term": "sad",
+      "z": 1.836
+    },
+    {
+      "term": "prediction",
+      "z": 1.727
+    },
+    {
+      "term": "word",
+      "z": 1.499
+    },
+    {
+      "term": "comprehension",
+      "z": 1.474
+    },
+    {
+      "term": "reading",
+      "z": 1.472
+    },
+    {
+      "term": "control",
+      "z": 1.398
+    },
+    {
+      "term": "speech production",
+      "z": 1.232
+    },
+    {
+      "term": "intentions",
+      "z": 1.193
+    },
+    {
+      "term": "imagery",
+      "z": 1.167
+    },
+    {
+      "term": "working memory",
+      "z": 1.157
+    },
+    {
+      "term": "emotion",
+      "z": 1.112
+    },
+    {
+      "term": "language",
+      "z": 1.082
+    }
+  ],
+  "R_Lat_Fis-post": [
+    {
+      "term": "pain",
+      "z": 5.518
+    },
+    {
+      "term": "auditory",
+      "z": 4.017
+    },
+    {
+      "term": "speech",
+      "z": 3.059
+    },
+    {
+      "term": "imagery",
+      "z": 2.063
+    },
+    {
+      "term": "movement",
+      "z": 1.773
+    },
+    {
+      "term": "motor",
+      "z": 1.724
+    },
+    {
+      "term": "anticipation",
+      "z": 1.567
+    },
+    {
+      "term": "touch",
+      "z": 1.541
+    },
+    {
+      "term": "empathy",
+      "z": 1.524
+    },
+    {
+      "term": "anxiety",
+      "z": 1.362
+    },
+    {
+      "term": "speech production",
+      "z": 1.248
+    },
+    {
+      "term": "attention",
+      "z": 1.238
+    }
+  ],
+  "R_Pole_occipital": [
+    {
+      "term": "visual",
+      "z": 7.948
+    },
+    {
+      "term": "objects",
+      "z": 3.836
+    },
+    {
+      "term": "reading",
+      "z": 3.824
+    },
+    {
+      "term": "semantic",
+      "z": 3.585
+    },
+    {
+      "term": "category",
+      "z": 3.523
+    },
+    {
+      "term": "object",
+      "z": 3.199
+    },
+    {
+      "term": "word",
+      "z": 3.118
+    },
+    {
+      "term": "faces",
+      "z": 3.078
+    },
+    {
+      "term": "encoding",
+      "z": 2.944
+    },
+    {
+      "term": "decision",
+      "z": 2.902
+    },
+    {
+      "term": "action",
+      "z": 2.404
+    },
+    {
+      "term": "face",
+      "z": 2.273
+    }
+  ],
+  "R_Pole_temporal": [
+    {
+      "term": "social",
+      "z": 4.262
+    },
+    {
+      "term": "memory",
+      "z": 3.625
+    },
+    {
+      "term": "episodic",
+      "z": 3.526
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.447
+    },
+    {
+      "term": "emotional",
+      "z": 3.075
+    },
+    {
+      "term": "face",
+      "z": 2.903
+    },
+    {
+      "term": "retrieval",
+      "z": 2.851
+    },
+    {
+      "term": "mentalizing",
+      "z": 2.555
+    },
+    {
+      "term": "semantic",
+      "z": 2.406
+    },
+    {
+      "term": "self",
+      "z": 2.317
+    },
+    {
+      "term": "empathic",
+      "z": 2.177
+    },
+    {
+      "term": "empathy",
+      "z": 2.075
+    }
+  ],
+  "R_S_calcarine": [
+    {
+      "term": "visual",
+      "z": 4.811
+    },
+    {
+      "term": "scenes",
+      "z": 3.073
+    },
+    {
+      "term": "episodic",
+      "z": 2.704
+    },
+    {
+      "term": "scene",
+      "z": 2.655
+    },
+    {
+      "term": "default mode",
+      "z": 2.428
+    },
+    {
+      "term": "recognition",
+      "z": 2.324
+    },
+    {
+      "term": "navigation",
+      "z": 2.287
+    },
+    {
+      "term": "memory",
+      "z": 2.13
+    },
+    {
+      "term": "salience",
+      "z": 2.025
+    },
+    {
+      "term": "salience network",
+      "z": 1.884
+    },
+    {
+      "term": "semantic",
+      "z": 1.863
+    },
+    {
+      "term": "recall",
+      "z": 1.811
+    }
+  ],
+  "R_S_central": [
+    {
+      "term": "motor",
+      "z": 9.931
+    },
+    {
+      "term": "movement",
+      "z": 5.461
+    },
+    {
+      "term": "speech production",
+      "z": 3.616
+    },
+    {
+      "term": "speech",
+      "z": 2.321
+    },
+    {
+      "term": "pain",
+      "z": 2.291
+    },
+    {
+      "term": "imitation",
+      "z": 2.034
+    },
+    {
+      "term": "imagery",
+      "z": 1.948
+    },
+    {
+      "term": "resting state",
+      "z": 1.777
+    },
+    {
+      "term": "inhibition",
+      "z": 1.623
+    },
+    {
+      "term": "retrieval",
+      "z": 1.449
+    },
+    {
+      "term": "anticipation",
+      "z": 1.34
+    },
+    {
+      "term": "objects",
+      "z": 1.317
+    }
+  ],
+  "R_S_cingul-Marginalis": [
+    {
+      "term": "pain",
+      "z": 2.818
+    },
+    {
+      "term": "emotional",
+      "z": 2.43
+    },
+    {
+      "term": "rest",
+      "z": 2.409
+    },
+    {
+      "term": "inhibition",
+      "z": 1.755
+    },
+    {
+      "term": "encoding",
+      "z": 1.608
+    },
+    {
+      "term": "mentalizing",
+      "z": 1.483
+    },
+    {
+      "term": "episodic",
+      "z": 1.452
+    },
+    {
+      "term": "default mode",
+      "z": 1.262
+    },
+    {
+      "term": "threat",
+      "z": 1.237
+    },
+    {
+      "term": "social",
+      "z": 1.214
+    },
+    {
+      "term": "inference",
+      "z": 1.2
+    },
+    {
+      "term": "regulation",
+      "z": 1.038
+    }
+  ],
+  "R_S_circular_insula_ant": [
+    {
+      "term": "working memory",
+      "z": 4.413
+    },
+    {
+      "term": "control",
+      "z": 4.379
+    },
+    {
+      "term": "anticipation",
+      "z": 4.035
+    },
+    {
+      "term": "memory",
+      "z": 3.939
+    },
+    {
+      "term": "retrieval",
+      "z": 3.802
+    },
+    {
+      "term": "word",
+      "z": 3.552
+    },
+    {
+      "term": "recognition",
+      "z": 3.546
+    },
+    {
+      "term": "decision",
+      "z": 3.516
+    },
+    {
+      "term": "reward",
+      "z": 3.404
+    },
+    {
+      "term": "semantic",
+      "z": 2.999
+    },
+    {
+      "term": "inhibition",
+      "z": 2.756
+    },
+    {
+      "term": "incentive",
+      "z": 2.743
+    }
+  ],
+  "R_S_circular_insula_inf": [
+    {
+      "term": "auditory",
+      "z": 5.101
+    },
+    {
+      "term": "pain",
+      "z": 3.52
+    },
+    {
+      "term": "music",
+      "z": 2.861
+    },
+    {
+      "term": "speech",
+      "z": 1.662
+    },
+    {
+      "term": "stress",
+      "z": 1.604
+    },
+    {
+      "term": "emotional",
+      "z": 1.254
+    },
+    {
+      "term": "rest",
+      "z": 1.232
+    },
+    {
+      "term": "syntactic",
+      "z": 1.181
+    },
+    {
+      "term": "episodic",
+      "z": 1.117
+    },
+    {
+      "term": "anticipation",
+      "z": 1.048
+    },
+    {
+      "term": "empathy",
+      "z": 1.036
+    },
+    {
+      "term": "speech production",
+      "z": 1.03
+    }
+  ],
+  "R_S_circular_insula_sup": [
+    {
+      "term": "pain",
+      "z": 7.424
+    },
+    {
+      "term": "taste",
+      "z": 2.918
+    },
+    {
+      "term": "inhibition",
+      "z": 2.566
+    },
+    {
+      "term": "fear",
+      "z": 2.475
+    },
+    {
+      "term": "control",
+      "z": 2.457
+    },
+    {
+      "term": "empathy",
+      "z": 2.406
+    },
+    {
+      "term": "motor",
+      "z": 2.207
+    },
+    {
+      "term": "tactile",
+      "z": 2.058
+    },
+    {
+      "term": "threat",
+      "z": 2.045
+    },
+    {
+      "term": "salience",
+      "z": 2.002
+    },
+    {
+      "term": "salience network",
+      "z": 1.913
+    },
+    {
+      "term": "punishment",
+      "z": 1.729
+    }
+  ],
+  "R_S_collat_transv_ant": [
+    {
+      "term": "recognition",
+      "z": 3.864
+    },
+    {
+      "term": "memory",
+      "z": 3.682
+    },
+    {
+      "term": "encoding",
+      "z": 3.035
+    },
+    {
+      "term": "face",
+      "z": 2.82
+    },
+    {
+      "term": "faces",
+      "z": 2.581
+    },
+    {
+      "term": "retrieval",
+      "z": 1.945
+    },
+    {
+      "term": "word",
+      "z": 1.76
+    },
+    {
+      "term": "number",
+      "z": 1.669
+    },
+    {
+      "term": "arousal",
+      "z": 1.522
+    },
+    {
+      "term": "visual",
+      "z": 1.519
+    },
+    {
+      "term": "fear",
+      "z": 1.511
+    },
+    {
+      "term": "objects",
+      "z": 1.38
+    }
+  ],
+  "R_S_collat_transv_post": [
+    {
+      "term": "visual",
+      "z": 3.111
+    },
+    {
+      "term": "objects",
+      "z": 2.794
+    },
+    {
+      "term": "faces",
+      "z": 2.624
+    },
+    {
+      "term": "object",
+      "z": 2.293
+    },
+    {
+      "term": "episodic",
+      "z": 1.666
+    },
+    {
+      "term": "scene",
+      "z": 1.415
+    },
+    {
+      "term": "decision",
+      "z": 1.412
+    },
+    {
+      "term": "face",
+      "z": 1.393
+    },
+    {
+      "term": "scenes",
+      "z": 1.255
+    },
+    {
+      "term": "touch",
+      "z": 1.177
+    },
+    {
+      "term": "fearful",
+      "z": 1.154
+    },
+    {
+      "term": "retrieval",
+      "z": 1.148
+    }
+  ],
+  "R_S_front_inf": [
+    {
+      "term": "memory",
+      "z": 5.214
+    },
+    {
+      "term": "recognition",
+      "z": 3.602
+    },
+    {
+      "term": "working memory",
+      "z": 3.474
+    },
+    {
+      "term": "executive",
+      "z": 3.017
+    },
+    {
+      "term": "encoding",
+      "z": 2.458
+    },
+    {
+      "term": "voice",
+      "z": 2.44
+    },
+    {
+      "term": "word",
+      "z": 2.318
+    },
+    {
+      "term": "emotional",
+      "z": 1.898
+    },
+    {
+      "term": "social",
+      "z": 1.803
+    },
+    {
+      "term": "empathy",
+      "z": 1.797
+    },
+    {
+      "term": "face",
+      "z": 1.758
+    },
+    {
+      "term": "abstract",
+      "z": 1.707
+    }
+  ],
+  "R_S_front_middle": [
+    {
+      "term": "working memory",
+      "z": 3.598
+    },
+    {
+      "term": "memory",
+      "z": 3.216
+    },
+    {
+      "term": "inhibition",
+      "z": 2.248
+    },
+    {
+      "term": "executive",
+      "z": 2.008
+    },
+    {
+      "term": "retrieval",
+      "z": 1.916
+    },
+    {
+      "term": "encoding",
+      "z": 1.729
+    },
+    {
+      "term": "intention",
+      "z": 1.691
+    },
+    {
+      "term": "threat",
+      "z": 1.658
+    },
+    {
+      "term": "intentions",
+      "z": 1.615
+    },
+    {
+      "term": "happy",
+      "z": 1.363
+    },
+    {
+      "term": "pain",
+      "z": 1.357
+    },
+    {
+      "term": "attention",
+      "z": 1.354
+    }
+  ],
+  "R_S_front_sup": [
+    {
+      "term": "memory",
+      "z": 5.045
+    },
+    {
+      "term": "working memory",
+      "z": 4.457
+    },
+    {
+      "term": "executive",
+      "z": 2.839
+    },
+    {
+      "term": "retrieval",
+      "z": 2.823
+    },
+    {
+      "term": "spatial",
+      "z": 2.333
+    },
+    {
+      "term": "control",
+      "z": 2.285
+    },
+    {
+      "term": "scene",
+      "z": 2.216
+    },
+    {
+      "term": "object",
+      "z": 2.177
+    },
+    {
+      "term": "attention",
+      "z": 2.153
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.992
+    },
+    {
+      "term": "objects",
+      "z": 1.954
+    },
+    {
+      "term": "uncertainty",
+      "z": 1.931
+    }
+  ],
+  "R_S_interm_prim-Jensen": [
+    {
+      "term": "working memory",
+      "z": 2.757
+    },
+    {
+      "term": "attention",
+      "z": 2.496
+    },
+    {
+      "term": "executive",
+      "z": 2.296
+    },
+    {
+      "term": "spatial",
+      "z": 1.847
+    },
+    {
+      "term": "number",
+      "z": 1.833
+    },
+    {
+      "term": "auditory",
+      "z": 1.828
+    },
+    {
+      "term": "numerical",
+      "z": 1.597
+    },
+    {
+      "term": "language",
+      "z": 1.34
+    },
+    {
+      "term": "threat",
+      "z": 1.314
+    },
+    {
+      "term": "control",
+      "z": 1.289
+    },
+    {
+      "term": "action",
+      "z": 1.259
+    },
+    {
+      "term": "intention",
+      "z": 1.237
+    }
+  ],
+  "R_S_intrapariet_and_P_trans": [
+    {
+      "term": "visual",
+      "z": 8.066
+    },
+    {
+      "term": "attention",
+      "z": 7.494
+    },
+    {
+      "term": "working memory",
+      "z": 6.726
+    },
+    {
+      "term": "spatial",
+      "z": 5.965
+    },
+    {
+      "term": "number",
+      "z": 5.421
+    },
+    {
+      "term": "control",
+      "z": 4.927
+    },
+    {
+      "term": "memory",
+      "z": 4.791
+    },
+    {
+      "term": "action",
+      "z": 3.961
+    },
+    {
+      "term": "object",
+      "z": 3.866
+    },
+    {
+      "term": "imagery",
+      "z": 3.691
+    },
+    {
+      "term": "reading",
+      "z": 3.362
+    },
+    {
+      "term": "numerical",
+      "z": 3.303
+    }
+  ],
+  "R_S_oc_middle_and_Lunatus": [
+    {
+      "term": "visual",
+      "z": 7.069
+    },
+    {
+      "term": "object",
+      "z": 2.911
+    },
+    {
+      "term": "encoding",
+      "z": 2.889
+    },
+    {
+      "term": "word",
+      "z": 2.577
+    },
+    {
+      "term": "reading",
+      "z": 2.494
+    },
+    {
+      "term": "face",
+      "z": 2.366
+    },
+    {
+      "term": "control",
+      "z": 2.26
+    },
+    {
+      "term": "objects",
+      "z": 2.191
+    },
+    {
+      "term": "place",
+      "z": 2.034
+    },
+    {
+      "term": "scenes",
+      "z": 1.987
+    },
+    {
+      "term": "expectation",
+      "z": 1.876
+    },
+    {
+      "term": "faces",
+      "z": 1.832
+    }
+  ],
+  "R_S_oc_sup_and_transversal": [
+    {
+      "term": "visual",
+      "z": 6.808
+    },
+    {
+      "term": "spatial",
+      "z": 4.629
+    },
+    {
+      "term": "attention",
+      "z": 3.913
+    },
+    {
+      "term": "object",
+      "z": 2.961
+    },
+    {
+      "term": "navigation",
+      "z": 2.528
+    },
+    {
+      "term": "recognition",
+      "z": 2.478
+    },
+    {
+      "term": "reading",
+      "z": 2.296
+    },
+    {
+      "term": "memory",
+      "z": 2.239
+    },
+    {
+      "term": "action",
+      "z": 2.138
+    },
+    {
+      "term": "scenes",
+      "z": 2.086
+    },
+    {
+      "term": "encoding",
+      "z": 2.062
+    },
+    {
+      "term": "face",
+      "z": 2.0
+    }
+  ],
+  "R_S_occipital_ant": [
+    {
+      "term": "visual",
+      "z": 6.608
+    },
+    {
+      "term": "observation",
+      "z": 3.327
+    },
+    {
+      "term": "action",
+      "z": 2.888
+    },
+    {
+      "term": "body",
+      "z": 2.539
+    },
+    {
+      "term": "attention",
+      "z": 2.252
+    },
+    {
+      "term": "object",
+      "z": 1.967
+    },
+    {
+      "term": "spatial",
+      "z": 1.672
+    },
+    {
+      "term": "imagery",
+      "z": 1.607
+    },
+    {
+      "term": "intention",
+      "z": 1.401
+    },
+    {
+      "term": "reading",
+      "z": 1.261
+    },
+    {
+      "term": "recognition",
+      "z": 1.255
+    },
+    {
+      "term": "motor",
+      "z": 1.23
+    }
+  ],
+  "R_S_oc-temp_lat": [
+    {
+      "term": "face",
+      "z": 6.565
+    },
+    {
+      "term": "faces",
+      "z": 5.503
+    },
+    {
+      "term": "visual",
+      "z": 4.48
+    },
+    {
+      "term": "recognition",
+      "z": 4.089
+    },
+    {
+      "term": "objects",
+      "z": 3.19
+    },
+    {
+      "term": "word",
+      "z": 2.737
+    },
+    {
+      "term": "encoding",
+      "z": 2.729
+    },
+    {
+      "term": "reading",
+      "z": 2.637
+    },
+    {
+      "term": "body",
+      "z": 2.565
+    },
+    {
+      "term": "language",
+      "z": 2.358
+    },
+    {
+      "term": "emotional",
+      "z": 2.183
+    },
+    {
+      "term": "intentions",
+      "z": 2.164
+    }
+  ],
+  "R_S_oc-temp_med_and_Lingual": [
+    {
+      "term": "scenes",
+      "z": 5.429
+    },
+    {
+      "term": "objects",
+      "z": 5.159
+    },
+    {
+      "term": "encoding",
+      "z": 4.934
+    },
+    {
+      "term": "memory",
+      "z": 4.887
+    },
+    {
+      "term": "scene",
+      "z": 4.784
+    },
+    {
+      "term": "visual",
+      "z": 4.443
+    },
+    {
+      "term": "object",
+      "z": 4.225
+    },
+    {
+      "term": "faces",
+      "z": 4.078
+    },
+    {
+      "term": "face",
+      "z": 3.752
+    },
+    {
+      "term": "recognition",
+      "z": 3.609
+    },
+    {
+      "term": "navigation",
+      "z": 3.468
+    },
+    {
+      "term": "episodic",
+      "z": 3.414
+    }
+  ],
+  "R_S_orbital_lateral": [
+    {
+      "term": "touch",
+      "z": 1.838
+    },
+    {
+      "term": "pain",
+      "z": 1.541
+    },
+    {
+      "term": "control",
+      "z": 1.511
+    },
+    {
+      "term": "olfactory",
+      "z": 1.358
+    },
+    {
+      "term": "attention",
+      "z": 0.974
+    },
+    {
+      "term": "self",
+      "z": 0.953
+    },
+    {
+      "term": "anxiety",
+      "z": 0.926
+    },
+    {
+      "term": "syntactic",
+      "z": 0.925
+    },
+    {
+      "term": "encoding",
+      "z": 0.92
+    },
+    {
+      "term": "rhythm",
+      "z": 0.871
+    },
+    {
+      "term": "retrieval",
+      "z": 0.828
+    },
+    {
+      "term": "voice",
+      "z": 0.825
+    }
+  ],
+  "R_S_orbital_med-olfact": [
+    {
+      "term": "reward",
+      "z": 3.814
+    },
+    {
+      "term": "value",
+      "z": 2.888
+    },
+    {
+      "term": "choice",
+      "z": 2.16
+    },
+    {
+      "term": "resting state",
+      "z": 2.05
+    },
+    {
+      "term": "olfactory",
+      "z": 1.948
+    },
+    {
+      "term": "incentive",
+      "z": 1.695
+    },
+    {
+      "term": "risk",
+      "z": 1.666
+    },
+    {
+      "term": "loss",
+      "z": 1.659
+    },
+    {
+      "term": "social",
+      "z": 1.63
+    },
+    {
+      "term": "decision",
+      "z": 1.619
+    },
+    {
+      "term": "punishment",
+      "z": 1.343
+    },
+    {
+      "term": "motivation",
+      "z": 1.247
+    }
+  ],
+  "R_S_orbital-H_Shaped": [
+    {
+      "term": "reward",
+      "z": 3.242
+    },
+    {
+      "term": "regulation",
+      "z": 3.168
+    },
+    {
+      "term": "retrieval",
+      "z": 2.892
+    },
+    {
+      "term": "emotion",
+      "z": 2.705
+    },
+    {
+      "term": "memory",
+      "z": 2.666
+    },
+    {
+      "term": "olfactory",
+      "z": 2.642
+    },
+    {
+      "term": "episodic",
+      "z": 2.482
+    },
+    {
+      "term": "encoding",
+      "z": 2.444
+    },
+    {
+      "term": "risk",
+      "z": 2.2
+    },
+    {
+      "term": "value",
+      "z": 2.022
+    },
+    {
+      "term": "motivation",
+      "z": 1.927
+    },
+    {
+      "term": "anticipation",
+      "z": 1.802
+    }
+  ],
+  "R_S_parieto_occipital": [
+    {
+      "term": "retrieval",
+      "z": 4.608
+    },
+    {
+      "term": "memory",
+      "z": 3.585
+    },
+    {
+      "term": "spatial",
+      "z": 3.26
+    },
+    {
+      "term": "episodic",
+      "z": 3.258
+    },
+    {
+      "term": "navigation",
+      "z": 2.842
+    },
+    {
+      "term": "attention",
+      "z": 2.434
+    },
+    {
+      "term": "default mode",
+      "z": 2.23
+    },
+    {
+      "term": "scenes",
+      "z": 2.191
+    },
+    {
+      "term": "scene",
+      "z": 2.163
+    },
+    {
+      "term": "recognition",
+      "z": 2.116
+    },
+    {
+      "term": "salience network",
+      "z": 1.802
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.618
+    }
+  ],
+  "R_S_pericallosal": [
+    {
+      "term": "reward",
+      "z": 3.304
+    },
+    {
+      "term": "control",
+      "z": 2.88
+    },
+    {
+      "term": "pain",
+      "z": 2.743
+    },
+    {
+      "term": "inhibition",
+      "z": 2.669
+    },
+    {
+      "term": "emotional",
+      "z": 2.604
+    },
+    {
+      "term": "rest",
+      "z": 2.586
+    },
+    {
+      "term": "arousal",
+      "z": 2.384
+    },
+    {
+      "term": "value",
+      "z": 2.177
+    },
+    {
+      "term": "risk",
+      "z": 1.812
+    },
+    {
+      "term": "taste",
+      "z": 1.8
+    },
+    {
+      "term": "recall",
+      "z": 1.718
+    },
+    {
+      "term": "autobiographical",
+      "z": 1.563
+    }
+  ],
+  "R_S_postcentral": [
+    {
+      "term": "motor",
+      "z": 6.711
+    },
+    {
+      "term": "tactile",
+      "z": 4.676
+    },
+    {
+      "term": "action",
+      "z": 4.246
+    },
+    {
+      "term": "observation",
+      "z": 4.143
+    },
+    {
+      "term": "spatial",
+      "z": 4.101
+    },
+    {
+      "term": "visual",
+      "z": 4.024
+    },
+    {
+      "term": "movement",
+      "z": 3.636
+    },
+    {
+      "term": "imagery",
+      "z": 3.413
+    },
+    {
+      "term": "object",
+      "z": 3.157
+    },
+    {
+      "term": "pain",
+      "z": 2.99
+    },
+    {
+      "term": "working memory",
+      "z": 2.881
+    },
+    {
+      "term": "touch",
+      "z": 2.572
+    }
+  ],
+  "R_S_precentral-inf-part": [
+    {
+      "term": "working memory",
+      "z": 4.539
+    },
+    {
+      "term": "attention",
+      "z": 4.501
+    },
+    {
+      "term": "visual",
+      "z": 3.006
+    },
+    {
+      "term": "observation",
+      "z": 2.965
+    },
+    {
+      "term": "reading",
+      "z": 2.674
+    },
+    {
+      "term": "action",
+      "z": 2.658
+    },
+    {
+      "term": "memory",
+      "z": 2.634
+    },
+    {
+      "term": "decision",
+      "z": 2.5
+    },
+    {
+      "term": "control",
+      "z": 2.32
+    },
+    {
+      "term": "conflict",
+      "z": 2.292
+    },
+    {
+      "term": "imagery",
+      "z": 2.238
+    },
+    {
+      "term": "prediction",
+      "z": 2.235
+    }
+  ],
+  "R_S_precentral-sup-part": [
+    {
+      "term": "motor",
+      "z": 7.688
+    },
+    {
+      "term": "attention",
+      "z": 5.047
+    },
+    {
+      "term": "control",
+      "z": 4.829
+    },
+    {
+      "term": "action",
+      "z": 4.638
+    },
+    {
+      "term": "movement",
+      "z": 4.438
+    },
+    {
+      "term": "spatial",
+      "z": 4.328
+    },
+    {
+      "term": "visual",
+      "z": 3.302
+    },
+    {
+      "term": "observation",
+      "z": 3.067
+    },
+    {
+      "term": "imagery",
+      "z": 2.972
+    },
+    {
+      "term": "working memory",
+      "z": 2.714
+    },
+    {
+      "term": "reaching",
+      "z": 1.653
+    },
+    {
+      "term": "object",
+      "z": 1.632
+    }
+  ],
+  "R_S_suborbital": [
+    {
+      "term": "reward",
+      "z": 2.583
+    },
+    {
+      "term": "default mode",
+      "z": 2.522
+    },
+    {
+      "term": "self",
+      "z": 2.253
+    },
+    {
+      "term": "social",
+      "z": 2.004
+    },
+    {
+      "term": "happy",
+      "z": 1.889
+    },
+    {
+      "term": "fear",
+      "z": 1.836
+    },
+    {
+      "term": "incentive",
+      "z": 1.7
+    },
+    {
+      "term": "emotional",
+      "z": 1.698
+    },
+    {
+      "term": "value",
+      "z": 1.684
+    },
+    {
+      "term": "choice",
+      "z": 1.665
+    },
+    {
+      "term": "risk",
+      "z": 1.657
+    },
+    {
+      "term": "arousal",
+      "z": 1.525
+    }
+  ],
+  "R_S_subparietal": [
+    {
+      "term": "mentalizing",
+      "z": 2.843
+    },
+    {
+      "term": "memory",
+      "z": 2.772
+    },
+    {
+      "term": "default mode",
+      "z": 2.684
+    },
+    {
+      "term": "resting state",
+      "z": 2.673
+    },
+    {
+      "term": "retrieval",
+      "z": 2.617
+    },
+    {
+      "term": "self",
+      "z": 2.469
+    },
+    {
+      "term": "spatial",
+      "z": 2.431
+    },
+    {
+      "term": "autobiographical",
+      "z": 2.427
+    },
+    {
+      "term": "salience network",
+      "z": 2.057
+    },
+    {
+      "term": "episodic",
+      "z": 1.888
+    },
+    {
+      "term": "recognition",
+      "z": 1.685
+    },
+    {
+      "term": "self referential",
+      "z": 1.671
+    }
+  ],
+  "R_S_temporal_inf": [
+    {
+      "term": "observation",
+      "z": 2.701
+    },
+    {
+      "term": "action",
+      "z": 1.898
+    },
+    {
+      "term": "visual",
+      "z": 1.733
+    },
+    {
+      "term": "intentions",
+      "z": 1.654
+    },
+    {
+      "term": "social",
+      "z": 1.534
+    },
+    {
+      "term": "uncertainty",
+      "z": 1.498
+    },
+    {
+      "term": "retrieval",
+      "z": 1.323
+    },
+    {
+      "term": "encoding",
+      "z": 1.304
+    },
+    {
+      "term": "imagery",
+      "z": 1.295
+    },
+    {
+      "term": "body",
+      "z": 1.254
+    },
+    {
+      "term": "mentalizing",
+      "z": 1.234
+    },
+    {
+      "term": "memory",
+      "z": 1.191
+    }
+  ],
+  "R_S_temporal_sup": [
+    {
+      "term": "speech",
+      "z": 7.783
+    },
+    {
+      "term": "auditory",
+      "z": 6.443
+    },
+    {
+      "term": "social",
+      "z": 6.099
+    },
+    {
+      "term": "language",
+      "z": 5.104
+    },
+    {
+      "term": "comprehension",
+      "z": 5.031
+    },
+    {
+      "term": "voice",
+      "z": 4.823
+    },
+    {
+      "term": "face",
+      "z": 4.751
+    },
+    {
+      "term": "empathy",
+      "z": 3.918
+    },
+    {
+      "term": "mentalizing",
+      "z": 3.82
+    },
+    {
+      "term": "autobiographical",
+      "z": 3.702
+    },
+    {
+      "term": "emotional",
+      "z": 3.429
+    },
+    {
+      "term": "speech perception",
+      "z": 3.355
+    }
+  ],
+  "R_S_temporal_transverse": [
+    {
+      "term": "auditory",
+      "z": 10.996
+    },
+    {
+      "term": "speech",
+      "z": 5.429
+    },
+    {
+      "term": "language",
+      "z": 2.989
+    },
+    {
+      "term": "speech production",
+      "z": 2.956
+    },
+    {
+      "term": "comprehension",
+      "z": 2.782
+    },
+    {
+      "term": "voice",
+      "z": 2.557
+    },
+    {
+      "term": "music",
+      "z": 2.176
+    },
+    {
+      "term": "semantic",
+      "z": 1.942
+    },
+    {
+      "term": "phonological",
+      "z": 1.841
+    },
+    {
+      "term": "visual",
+      "z": 1.812
+    },
+    {
+      "term": "motor",
+      "z": 1.764
+    },
+    {
+      "term": "word",
+      "z": 1.604
+    }
+  ]
+}

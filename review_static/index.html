@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TRIBE Brain Review</title>
+    <link rel="stylesheet" href="/static/styles.css?v=5" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>TRIBE Brain Review</h1>
+          <p id="globalMeta">Loading runs...</p>
+        </div>
+      </header>
+
+      <div id="panels"></div>
+
+      <section id="addNew" class="addNew" aria-label="Add a new video">
+        <div class="addNewBar">
+          <button id="newVideoButton" type="button" class="newVideoButton">+ New video</button>
+          <span class="addNewHint">Upload another video to compare runs side by side.</span>
+        </div>
+        <div id="uploadPanel" class="uploadPanel" hidden>
+          <div class="existingRunPicker">
+            <label class="uploadField">
+              <span>Existing run</span>
+              <select id="existingRunSelect"></select>
+            </label>
+            <button id="addExistingRunButton" type="button" class="primaryButton">Add to comparison</button>
+          </div>
+          <form id="uploadForm" class="uploadForm">
+            <div class="uploadDivider">Or run a new video</div>
+            <label class="uploadField">
+              <span>Video file</span>
+              <input id="uploadFile" type="file" accept="video/*" required />
+            </label>
+            <label class="uploadField">
+              <span>Backend</span>
+              <select id="uploadBackend">
+                <option value="hf" selected>HF Jobs GPU (recommended)</option>
+                <option value="local">Local laptop</option>
+              </select>
+            </label>
+            <label class="uploadField">
+              <span>HF GPU</span>
+              <select id="uploadFlavor">
+                <option value="t4-small" selected>t4-small</option>
+                <option value="l4x1">l4x1</option>
+                <option value="a10g-small">a10g-small</option>
+              </select>
+            </label>
+            <label class="uploadField">
+              <span>Max seconds (0 = full)</span>
+              <input id="uploadMaxSeconds" type="number" min="0" step="1" value="0" />
+            </label>
+            <label class="uploadField uploadCheckbox">
+              <input id="uploadWithText" type="checkbox" />
+              <span>Use transcript text (needs HF gated Llama)</span>
+            </label>
+            <div class="uploadActions">
+              <button id="uploadSubmit" type="submit" class="primaryButton">Run review</button>
+              <button id="closeUploadButton" type="button" class="ghostButton">Cancel</button>
+              <span id="uploadStatus" class="uploadStatus"></span>
+            </div>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <template id="panelTemplate">
+      <article class="panelCard">
+        <header class="panelHeader">
+          <div class="panelInfo">
+            <h2 class="panelTitle">Run</h2>
+            <p class="panelMeta">Loading...</p>
+          </div>
+          <div class="panelControls">
+            <select class="runSelect" aria-label="Run"></select>
+            <button class="playButton" type="button" aria-label="Play or pause">Play</button>
+            <span class="timeReadout">0.0s</span>
+            <button class="removePanelButton ghostButton" type="button" aria-label="Remove panel" title="Remove panel">✕</button>
+          </div>
+        </header>
+
+        <section class="stage" aria-label="Synchronized review">
+          <article class="viewer">
+            <div class="viewerHeader">
+              <h3>Original</h3>
+              <span class="sourceLabel"></span>
+            </div>
+            <video class="sourceVideo" playsinline preload="auto" controls></video>
+          </article>
+          <article class="viewer">
+            <div class="viewerHeader">
+              <h3>Predicted Brain</h3>
+              <div class="brainTabs" role="tablist" aria-label="Brain view">
+                <button class="tabButton brainVideoTab active" type="button" aria-selected="true">Left / Right</button>
+                <button class="tabButton brain3dTab" type="button" aria-selected="false">3D</button>
+              </div>
+            </div>
+            <video class="brainVideo brainPane active" playsinline preload="auto" controls muted></video>
+            <div class="brain3dPane brainPane interactivePane" hidden>
+              <canvas class="brainCanvas" width="1280" height="720" aria-label="Interactive cortical surface"></canvas>
+              <div class="viewControls" aria-label="3D view controls">
+                <button class="viewButton" type="button" data-view="top">Top</button>
+                <button class="viewButton" type="button" data-view="left">Left</button>
+                <button class="viewButton" type="button" data-view="right">Right</button>
+                <button class="viewButton" type="button" data-view="front">Front</button>
+                <button class="viewButton" type="button" data-view="reset">Reset</button>
+              </div>
+              <div class="brainStatus">Loading 3D surface...</div>
+            </div>
+          </article>
+        </section>
+
+        <section class="timelinePanel" aria-label="Activation timeline">
+          <div class="chartHeader">
+            <div>
+              <h3>Destrieux Region Timeline</h3>
+              <p>Showing top active left/right atlas parcels. Toggle regions below.</p>
+            </div>
+            <div class="selectedSecond">Second 0</div>
+          </div>
+          <canvas class="chartCanvas" width="1600" height="420"></canvas>
+          <input class="scrubber" type="range" min="0" max="0" step="0.01" value="0" />
+          <div class="activationPanel" aria-label="Active region functions">
+            <div class="activationPanelHeader">
+              <h4>Active Functional Associations</h4>
+              <span class="activationPanelMeta">Top regions at second 0</span>
+              <div class="sourceToggle" role="tablist" aria-label="Function source">
+                <button class="tabButton active" type="button" aria-selected="true" data-source="anatomy">Anatomy</button>
+                <button class="tabButton" type="button" aria-selected="false" data-source="decoded">Neurosynth decoded</button>
+              </div>
+            </div>
+            <div class="activeFunctions"></div>
+          </div>
+          <div class="legend"></div>
+        </section>
+      </article>
+    </template>
+
+    <script src="/static/app.js?v=4"></script>
+  </body>
+</html>

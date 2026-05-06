@@ -56,6 +56,13 @@ Repository = "https://github.com/facebookresearch/tribev2"
   test = [
     "pytest",
   ]
+  ui = [
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.27",
+    "python-multipart>=0.0.9",
+    "plotly>=5.20",
+    "accelerate",
+  ]
 
 [tool.black]
 line-length = 88
